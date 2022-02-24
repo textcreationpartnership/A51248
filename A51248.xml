@@ -1,0 +1,1339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heavenly wonder, or, A Christian cloath'd with Christ purposely penned to comfort Christs sin-sick-spouse / by Sam. Moore, minister of the gospel of God sometimes at Brides in Fleetstreete, London.</title>
+            <author>Moore, Samuel, b. 1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51248</idno>
+            <idno type="STC">Wing M2586A</idno>
+            <idno type="STC">ESTC R232290</idno>
+            <idno type="EEBO-CITATION">27662361</idno>
+            <idno type="OCLC">ocm 27662361</idno>
+            <idno type="VID">110169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1730:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heavenly wonder, or, A Christian cloath'd with Christ purposely penned to comfort Christs sin-sick-spouse / by Sam. Moore, minister of the gospel of God sometimes at Brides in Fleetstreete, London.</title>
+                  <author>Moore, Samuel, b. 1617.</author>
+               </titleStmt>
+               <extent>[22], 80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [16].</note>
+                  <note>Imperfect: stained, cropped and torn, with print show-through and loss of text.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Song of Solomon --  Commentaries.</term>
+               <term>Sin.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110169:1"/>
+            <pb facs="tcp:110169:1" rendition="simple:additions"/>
+            <p>AN HEAVENLY WONDER OR, A Chriſtian cloath'd with CHRIST.</p>
+            <p>Purpoſely penned to com<g ref="char:EOLhyphen"/>fort CHRISTS Sin-ſick-SPOUSE.</p>
+            <p>By SAM: MOORE, Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel of God ſometimes at <hi>Brides</hi> in <hi>Fleet-ſtreete,</hi> LONDON.</p>
+            <q>
+               <hi>There appeared a great wonder in Heaven, a woman Cloathed with the Sun, and the Moon under her feet, and upon her head a Crowne of twelve Starres,</hi> 
+               <bibl>Rev. 12. 1.</bibl>
+            </q>
+            <q>
+               <hi>Thy beauty is perfect through my comelineſſe which I have put upon thee,</hi> 
+               <bibl>Ezek. 16. 14.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> 1650.</p>
+            <pb facs="tcp:110169:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110169:2"/>
+            <head>To the truly Honorable, and my very well beloved friends in Chriſt, and <hi>quondam</hi> Auditors; Col. <hi>Anthony Stapley,</hi> Col. <hi>Herbert Morley,</hi> Col. <hi>John Downs,</hi> Mr. <hi>Wil. Hay,</hi> Mr. <hi>Francis Allen,</hi> Alderman of the famous City of <hi>London;</hi> and Mr. <hi>Henry Herbert,</hi> Eſquires, Mem<g ref="char:EOLhyphen"/>bers of the Right Honorable the Parlia<g ref="char:EOLhyphen"/>ment of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </head>
+            <opener>
+               <salute>Honorable Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>In hath an ill name all the Scriptures over, and it hath not its name for nought; it never had a good look from God, God doth as it were ſtrive for compariſons,
+<pb facs="tcp:110169:3"/>
+to ſet out the vileneſſe thereof: its <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zek,</hi> 16.6. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h.</hi> 24. 11, 12. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 3. 13. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zek.</hi> 16.8.</note> compared to the bloud, &amp; pollutions of Infants, to the c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rruption of rotten Se<g ref="char:EOLhyphen"/>pulchers, to the ſcum of a ſeething pot, and what not? all which are but ſha<g ref="char:EOLhyphen"/>dowes of its deformity, the ſubſtance thereof is beyond compare: yet laies <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ex jubet, gra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at, praeci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Deus quod <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e praeſtat.</note> Chriſt his skirt over the uncomly ſin<g ref="char:EOLhyphen"/>ner, to make him an heavenly beauty, never asking ought with him, but what he ha's promiſed to worke in him; and this is the fruit of his crucifixion, re<g ref="char:EOLhyphen"/>ſurrection, aſcenſion, and reigne, the acceptation of the perſon, and ablation of the ſin; do's not this make us won<g ref="char:EOLhyphen"/>der? why cry we not out, who made us to differ? Lord! How 'iſt that thou ſheweſt thy ſelfe to us, and not unto the world? That was a good <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hn</hi> 14. 22. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>zianzen. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>riſt hath <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ubera <hi>as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll as his</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bera, <hi>ways <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conſolati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, as well as <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rection.</hi>
+               </note> ſaying, Lord, I am an Inſtrument for thee to touch; but our ſteeled hearts, till touched with this Loadſtone, are neither drawne nor driven: Chriſt ap<g ref="char:EOLhyphen"/>pears, Lawyer-like, in Heaven, for his owne Clients, to nonſuit all the Devils accuſations, and make his darts dint<g ref="char:EOLhyphen"/>les: who's the great Maſter of Requeſts
+<pb facs="tcp:110169:3"/>
+there, but he, who's near us in incar<g ref="char:EOLhyphen"/>nation? and can he know us at a di<g ref="char:EOLhyphen"/>ſtance, in the buſineſſe of interceſſion? this is that Jeſus, who gave both vertue, and value to his own death, both to ſa<g ref="char:EOLhyphen"/>tisfie, ſanctifie, and ſave; this is he, of whom we may well ſay, as writers of the Jaſper; its eaſier to admire, then <note place="margin">Serm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non va let exprimere, experimento opus eſt. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom.</hi>
+               </note> declare it, and far more eaſie to ſay what he is not, then what he is; and truly, there ſhall be a ſucceſſion of Chriſts name and fame, till he hath gi<g ref="char:EOLhyphen"/>ven up to his father, his all at laſt, with behold here I am, and the children thou <note place="margin">
+                  <hi>Heb.</hi> 2. 13. Amor Dei eſt ecſtaticu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſui nec ſe ſinit eſſe juris. Propter te domine, propterte. Quic<g ref="char:EOLhyphen"/>quid agas, prop<g ref="char:EOLhyphen"/>ter Deum agas, <hi>do all for Gods ſake.</hi> Qui miſit uni<g ref="char:EOLhyphen"/>genitum, immi<g ref="char:EOLhyphen"/>ſit vultum, quid tandem tibi negaturus eſt? <hi>Bern.</hi>
+               </note> haſt given me; O! that his love would beget its owne likeneſſe, that many might have an aptneſſe of reception, for the heavenly influence, image, and im<g ref="char:EOLhyphen"/>preſſe; if we give not him our affecti<g ref="char:EOLhyphen"/>ons, are not all for God, our actions will be abortive, ſtill borne.</p>
+            <p>What! that the fleſh ſhould be cloa<g ref="char:EOLhyphen"/>thed with the Spirit, and ſin covered with grace, doe's not this attract love? what will do it then? beſides this, after once Chriſt is ours, we are armed againſt all croſſes, outward or inward. Credit
+<pb facs="tcp:110169:4"/>
+God ſhould we then, who giving great things, gives, in thoſe gifts, a grant of the leſſe; we may take his bare word, and truſt him, and that againſt ſenſe, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh.</hi> 6.35, 36. Hic credere eſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dere. Auguſt-Nunquam con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſi Deo conſiſi. <hi>Deut,</hi> 32.36.</note> in things inviſible, and againſt reaſon, in things incredible; for true truſt in this Truſtee, is a remedy before the re<g ref="char:EOLhyphen"/>medy comes; that being brought, and made preſent to faith, which is di<g ref="char:EOLhyphen"/>ſtant, and as it were loſt to ſenſe; Thus <hi>Abraham,</hi> and others ſaw afarre off, what by faith they embraced as it were at hand. No ſuch Midwife as faith; it hath delivered, even graves of their <note place="margin">
+                  <hi>The Word is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ompared to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oney, who's <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ature it is to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urge green <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ounds, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>auſe paine to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he exulce<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are parts.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>era purgat, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mordet, <hi>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ex.</hi> Aph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o problem.</note> dead, and gathered one contrary out of another, Honey out of the Rock. Hence abſent joyes are preſent, wants are ple<g ref="char:EOLhyphen"/>nitudes, and calamity is beguiled; as good ſociety, deals with the time. <hi>Na<g ref="char:EOLhyphen"/>zianzen</hi> rejoyced that he had ſome<g ref="char:EOLhyphen"/>thing of value <hi>(viz.</hi> his <hi>Athenian</hi> learning) to looſe for Chriſt. <hi>Anexa<g ref="char:EOLhyphen"/>goras,</hi> being asked wherefore he was borne, repli'd, <hi>Ut Coelum contem<g ref="char:EOLhyphen"/>plar,</hi> that I might buſie my thoughts about Heaven; <hi>Hierome</hi> to comfort an afflicted Hermite, wiſh'd him to take
+<pb facs="tcp:110169:4"/>
+a few turnes in Paradiſe, by medita<g ref="char:EOLhyphen"/>tion, <note place="margin">In Paradiſo mente d'eam<g ref="char:EOLhyphen"/>bulare tam di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remo non eris. <hi>Fox, act san<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mon p.</hi> 1484.</note> and aſsured him, ſo long as he had that in minde, he ſhould not be ſenſible that he was ſolitary, and alone. This day, ſaid Maſter <hi>Bradford</hi> Mar<g ref="char:EOLhyphen"/>tyr; I thinke, Hearty <hi>Hooper,</hi> Truſty <hi>Taylor,</hi> and Sincere <hi>Saunders,</hi> end their courſe, and receive their crowns; the next am I, which hourely waite for the Porter to open me the gates, after them to enter into that reſt; God for<g ref="char:EOLhyphen"/>give me my great unthankefulneſſe, for that exceeding great mercy. Thus like Rivers, all ſaints run into the Sea, Je<g ref="char:EOLhyphen"/>ſus Chriſt, their Ocean ſweetneſſe, even into him, who is ſavoureſt to the ſaints in deepeſt diſtreſſe, and helps men for<g ref="char:EOLhyphen"/>ſaken of hope: 'tis he that made Mar<g ref="char:EOLhyphen"/>tyrs goe as merrily to dye, as ever they did to dine; who then can turne his back on ſweet Chriſts bleeding em<g ref="char:EOLhyphen"/>bracements, and kick at his naked bowels?</p>
+            <p>But this, even this alaſſe! is the <hi>Cordolium</hi> (hearts grief) of the gra<g ref="char:EOLhyphen"/>cious, that this Lambe is prized onely of a few, the moſt are but pictures of
+<pb facs="tcp:110169:5"/>
+Piety; There's ſomething more I would <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ad <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtias, Chriſti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os ad Leoner, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ignem, ad <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nem, <hi>ſaid. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e primitive <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erſecutors,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertullian <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd now the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apiſts.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnis Chriſti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us crucianus. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uther. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 2. 10. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omentaneum <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quod cruciat <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ternum quod <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>electat. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elch. Adam-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>appy was <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at tongue <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the primi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve time, that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t</hi> aliquid <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avidicu<g ref="char:cmbAbbrStroke">̄</g>, <hi>any<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing of</hi> Da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds <hi>doing, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uch more <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ppy is he <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpeaks <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> aliquid <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſti, <hi>any <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſt from <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>perience.</hi>
+               </note> mind you of, ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of ſin ſweetens our ſufferings, prompts and heartens us to bear them; every Chriſtian is a Cru<g ref="char:EOLhyphen"/>cian, Grace is in continuall conflict with corruption, onely glory makes a totall conqueſt; this Captaine of Sal<g ref="char:EOLhyphen"/>vation was made perfect through ſuf<g ref="char:EOLhyphen"/>fering for ſin, that he might bring many ſons to that glory: ſufferings hurt not when there is an aſſurance our ſins are Sepultur'd in the Saviours wounds. Maſter <hi>Knox</hi> a little before his death, roſe out of his bed, and being asked wherefore, he, being then ſo ſick as he was, would do ſo? he replyed, that he had ſweet meditations of the reſurrection of Chriſt that night before, and now he would go into the Pulpit, and impart that to others, he had felt in his owne ſoule. The neerer any thing is to its center, the ſtronger and ſwifter it moves; the wine of the ſpirit of God, and the water of life is ſtrongeſt in Saints, when drawing to an end. Spi<g ref="char:EOLhyphen"/>rituall motions are quickeſt, when na<g ref="char:EOLhyphen"/>turall ones are ſloweſt; moſt ſenſible are
+<pb facs="tcp:110169:5"/>
+they when the body begins to be ſenſe leſſe, moſt lively when Saints lye dye<g ref="char:EOLhyphen"/>ing, the Sun ſhines moſt amiable to<g ref="char:EOLhyphen"/>wards the deſcent; and rivers, the neer<g ref="char:EOLhyphen"/>er they runne to the Sea, the ſooner are they met with the tyde; O 'tis won<g ref="char:EOLhyphen"/>drous ſweet to ponder the doings and ſufferings of Chriſt, by which he hath made ſome ſinleſſe, all fair and comely in his owne ornaments. Truely Saints ſhould riſe with their Saviour, and thinke on their own countrey, their fa<g ref="char:EOLhyphen"/>thers houſe, and meditate the heaven<g ref="char:EOLhyphen"/>ly manſions above, more then inferi<g ref="char:EOLhyphen"/>our good; This world's but their place <note place="margin">Fugiendum eſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> clariſſimam pa<g ref="char:EOLhyphen"/>triam, ibi pa<g ref="char:EOLhyphen"/>ter, ibi omnia. <hi>Plotinus.</hi> Diſcupio ſolvi tecum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> O Chriſte manere. Portio fac reg ni ſim quota<g ref="char:punc">▪</g> cun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tui. Pareus <hi>a little before his death.</hi> 
+                  <g ref="char:V">Ʋ</g>lteriùs <hi>was the Emblem of</hi> Charls <hi>the Fifth.</hi>
+               </note> of commoration, heaven's their place of converſation, that hath foundati<g ref="char:EOLhyphen"/>ons, but earth hangs on nothing, as <hi>Job</hi> hath ſaid; and a ſanctified fancie climbes upon creatures as on a Ladder to Heaven; Saints have Heaven afore<g ref="char:EOLhyphen"/>hand, <hi>in praetio, in promiſſo, in primitiis.</hi> Some, have their <hi>non ul<g ref="char:EOLhyphen"/>tra,</hi> are not winged for heaven, but the gracious have their <hi>ulterius,</hi> ſtill on, on, farther yet; and their <hi>ſublimius,</hi> yet higher ſtill, their <hi>profundius,</hi>
+               <pb facs="tcp:110169:6"/>
+ſtill deeper, and the deeper, the ſweeter, if we dive in the Ocean Chriſt; and a Chriſtians <hi>motto</hi> ſhould be, <hi>None but Chriſt, none but Chriſt,</hi> as ſaid <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amberts <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts and mon.</note> the Martyr, when he held up ſuch hands as he had, with his fingers ends flaming <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the more paine, the more gaine, ſaid <hi>Igna<g ref="char:EOLhyphen"/>tius,</hi> I had rather be a Martyr, then a Monarch, its to my loſſe if you bate me any thing of my ſufferings ſaid <hi>Gor<g ref="char:EOLhyphen"/>dius;</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emporalia Dei <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vis im<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſa <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pereunt, ſed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rturiunt. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſhop of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>illaine. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. Manlij.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. com. p. 539. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſt holy war.</hi>
+               </note> things laid out for God do not periſh, but flouriſh, our dyeing com<g ref="char:EOLhyphen"/>forts are alive in Chriſt our life and theirs. The paſſion-dayes of Mar<g ref="char:EOLhyphen"/>tyrs were called, <hi>Natalitia ſalutis,</hi> ſalvation birth-dayes, the day break of eternall brightneſſe.</p>
+            <p>The next thing is that we liſſen and comply with the motions of the graci<g ref="char:EOLhyphen"/>ous ſpirit, and withdraw our conſent <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Saint in the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ays of ſin</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il, niſi coa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us agit, <hi>do's <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>othing with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good will.</hi>
+               </note> from reiteration of ſinne interceded for and by us forſaken; a ſinne which is directly againſt the ſonne, though 'tis true in depraved nature, the act and conſent goe both to evill, the ſtub<g ref="char:EOLhyphen"/>borne
+<pb facs="tcp:110169:6"/>
+voice whereof is, I doe evill and will do it, yet in grace, though the act go ſometimes to ſin, the conſent is abſent, and its mournfull voice is, <hi>the evill which I would not that doe I;</hi> in Glory, the act and conſent goe both to good, and all good, and neither of them to any evill, the triumphant voice of which, is, the evill which I would not, I doe not, and the good which I would, that doe I.</p>
+            <p>
+               <hi>Sirs,</hi> We live in an age wherein there's a ſucceſſion of raw and uncon<g ref="char:EOLhyphen"/>cocted conjectures, and conceptions, <note place="margin">Sinceritas ſere<g ref="char:EOLhyphen"/>nitatis mater. <hi>Rev.</hi> 3.4.</note> of good and evill; be you inſtant and conſtant with God, for ſoundneſſe of judgement, and ſinceritie, which is the Mother of ſerenity; now alas! Pſeudo-Chriſt<g ref="char:punc">▪</g>s have brought forth Pſeudo-Chriſtians, yet happy is the man that defiles not his garments, hee ſhall walk with God in white, for hee's worthy.</p>
+            <p>Let fallen brothers be reſtored in the Spirit of meekneſſe, ſet in joynt againe, as the Greek word is; as Chyrurgions <note place="margin">
+                  <hi>Gal.</hi> 6.1.</note> and bone-ſetters, who handle their pa<g ref="char:EOLhyphen"/>tients
+<pb facs="tcp:110169:7"/>
+tenderly, from whom this meta<g ref="char:EOLhyphen"/>phor <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hodiè, &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go cras, <hi>he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll to day, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may I to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>orrow.</hi> Bern. <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tim.</hi> 2.8. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antillùm tan <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llùm adhuc <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſillum, <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſt will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me ere <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng.</hi>
+               </note> is taken; ſome, ſaith the Apoſtle, have erred concerning the truth, or as the word is, have miſſed the marke, like unskill full Archers, or inconſide<g ref="char:EOLhyphen"/>rate Marriners, by miſ-reckoning of one point, have miſſed the Haven, and run on the Rocks; airie conteſtors, and empty ſtrivers, that have not onely cumbred, but almoſt covered, this part of the earth; but ſtand you faſt, quit your ſelves like men, be ſtrong, hold faſt what you have received of the Lord, let no man take your crowne, and pray <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uando Chri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Magiſter <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> am cito dici<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r quod doce<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. <hi>Auguſt.</hi>
+               </note> you may ever lie and live under the dew of Chriſts lips.</p>
+            <p>
+               <hi>Honorable Sirs,</hi> You have honored God, and God hath honored you; I hope <hi>Theodoſius</hi> his opinion is yours, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eronimus. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r,</hi> laudat a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lator, ſed non <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> verus ama.</note> who would rather be <hi>Membru<g ref="char:cmbAbbrStroke">̄</g> Chri<g ref="char:EOLhyphen"/>ſti,</hi> then <hi>Caput Imperii,</hi> a member of Chriſt, then the head of the Empire. <hi>Suis quiſque laudibus favet,</hi> I thinke not true of your Honours, <hi>Sine blanditia dico,</hi> I flatter not, but I am
+<pb facs="tcp:110169:7"/>
+ambitious to animate your courage and candor for God.</p>
+            <p>I bleſſe God, I judge it a greater mercy to imitate, then to encomionize vertue; many future generations will better expreſſe the worth of ſuch wor<g ref="char:EOLhyphen"/>thies works, than can the extentions of my Pen, when the Hiſtory of common-wealths <hi>Patriots,</hi> ſhall be made extant.</p>
+            <p>Finally, You have here ſtamped the impreſſe of my obliged reſpects; to allow <note place="margin">
+                  <hi>Phil.</hi> 1.7. Sanctior eſt copula cordis quam corporis. Illi linguarum ego aurium Do<g ref="char:EOLhyphen"/>minus. <hi>Tacit. fie on a</hi> Zoilus <hi>hee'l carpe at an</hi> Homer. Quem in inti<g ref="char:EOLhyphen"/>mis viſceribus habeo ad convi<g ref="char:EOLhyphen"/>vendum, &amp; commoriendum, <hi>ſaid Bradford. in a Letter to</hi> Lawrence Saunders <hi>his fellow Martyr,</hi> Act. &amp; Mon. fol. 1483.</note> an oblivion of your love to me, and the truth, would be ingratitude in the high<g ref="char:EOLhyphen"/>eſt degree; I have you in my heart, and that not without cauſe; nor doe I for<g ref="char:EOLhyphen"/>get how you held your ſelves concern'd in all my ſufferings, under the laſh of lewd tongues, neither that incourage<g ref="char:EOLhyphen"/>ment which in the courſe of my Mini<g ref="char:EOLhyphen"/>ſtery I received from you; truly, thank<g ref="char:EOLhyphen"/>fullneſſe is not meaſured of God, or good men, by the weight, but by the will of the retributor: I aſſure my ſelfe that a pub<g ref="char:EOLhyphen"/>like acknowledgement of your publike favours towards me, will be as kindly
+<pb facs="tcp:110169:8"/>
+taken as given; And if by theſe la<g ref="char:EOLhyphen"/>bours, which are not unto laſſitude, you may reape a yet farther profit, from your very humble ſervant, and loving friend and debtor, you will glad his ſpirit who is,</p>
+            <p>And reſolves to be, through the ſtrength of God, an unfained friend to you<g ref="char:punc">▪</g> and all the members of myſticall Chriſt, un<g ref="char:EOLhyphen"/>till days are loſt in the ancient of dayes.</p>
+            <closer>
+               <signed>Sam. Moor.</signed>
+            </closer>
+            <pb facs="tcp:110169:8"/>
+         </div>
+         <div type="errata">
+            <div type="errata">
+               <pb facs="tcp:110169:9"/>
+               <head>Errata's in the Epiſtle to the Reader.</head>
+               <p>
+                  <hi>Line</hi> 34. <hi>r.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>l.</hi> 67. <hi>r. giddie heads with a comma.</hi>
+               </p>
+            </div>
+            <div type="errata">
+               <head>Errata's in the Book.</head>
+               <p>
+                  <hi>Page</hi> 12. <hi>line</hi> 3. <hi>dele for all, and r. man. p.</hi> 13. <hi>l.</hi> 3. <hi>dele a, p.</hi> 20. <hi>l.</hi> 4. <hi>r. the l.</hi> 5. <hi>r. the, p.</hi> 55. <hi>l.</hi> 16. <hi>r. where's, &amp; l.</hi> 27. <hi>dele in, and in the margent r.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>p.</hi> 67. <hi>l.</hi> 18. <hi>r. Lenis. p.</hi> 68. <hi>l.</hi> 9. <hi>r. her, p.</hi> 69. <hi>l.</hi> 2. <hi>r.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>l.</hi> 15. <hi>r.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp; l.</hi> 23. <hi>r. fates, p.</hi> 70. <hi>l.</hi> 1. <hi>r. begging, p.</hi> 71. <hi>l.</hi> 10. <hi>r. put, p.</hi> 74. <hi>in marg. r. Lachrimas.</hi>
+               </p>
+               <p>Some other leſſer faults there be, as miſ-pointing, and miſ-joyning of wordes and ſentences, which the Printer deſires the Reader to reforme with his Pen.</p>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110169:9"/>
+            <head>To the pious Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſenſe of Chriſts love ſo ſwells and aſcends; that the Spouſe in her Canticles is not Maſter of her words, in telling his worth: every word is like a Mountain. If thou come to his per<g ref="char:EOLhyphen"/>ſon, nature, offices, honours; Myrrhe, Aloes, Cinamon, Frankincence, all the powders of Merchants, that ever <hi>Affrica, Aegypt,</hi> or other Coun<g ref="char:EOLhyphen"/>tries had and have, are but ſhort, poor ſhadows, and hungry generalls to him; he's all abſtractive ſweetneſſe, all loves, <note place="margin">
+                  <hi>Cant.</hi> 5. 16.</note> all deſires, and all of him, every piece of him, is love and lovelineſſe it ſelfe: yet when all's ſaid that can be, Spouſe like, may we ſay, he ſtands behind our <note place="margin">
+                  <hi>Cant.</hi> 2. 9.</note> wall, <hi>q. d.</hi> the veile of our fleſh: and as he cannot ſeeeme, ſo neither can wee
+<pb facs="tcp:110169:10"/>
+ſee, the halfe of what he is, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill this veile is taken off, and we have entered the veile of heaven. And as he is, ſo is his love, ineffable, not concep<g ref="char:EOLhyphen"/>tible. Christs love gets the better of all ſouls that goe to heaven; for what's great Heaven, but an houſe full of vanquiſh'd Captives to Chriſts draw<g ref="char:EOLhyphen"/>ing love. 'Tis ſweet ſwimming in thoſe waters where ſweet Chriſt caſts his Net. We may, like the fiſh, be caught by the foode or pleaſure of this Fiſher of men; his baites take with the eye and taſte too. Could <hi>Paul,</hi> be<g ref="char:EOLhyphen"/>ing crafty, catch (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>pia fraude)</hi> with an holy guide; how much more <note place="margin">2 <hi>Cor.</hi> 12. 16.</note> Chriſt: he, with one caſt of his counte<g ref="char:EOLhyphen"/>nance, can view all in heaven, and all on earth; giving out his heart full of burning love, Eaſt, Weſt, North, and South; and gather into himſelfe all who are given him. O the fulnes of love, joy, peace, proſperity, &amp; pleaſures! the first fruits of that land, which lies beyond time, and death, muſt needs be above expreſsion. In the interim, theſe things make a marvaile, that
+<pb facs="tcp:110169:10"/>
+God is kinde to the unthankfull and <note place="margin">
+                  <hi>Luke</hi> 6. 35. <hi>Rom.</hi> 4. 5. <hi>Matth.</hi> 5. 45 <hi>Rom.</hi> 12. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> evill; juſtifies the ungodly; lets his ſunne ſhine on the unjuſt; overcomes evill with good; and ſpeaks well of ſuch as deſerved ill: this, even this, is the ſubject of the following diſcourſe. In which wonder, thou haſt ſomewhat more then a taſt of the true ſenſe in which Chriſts Spouſe is ſpotleſſe, all faire; and how ſinne is, and is not charg'd on Saints; What ſinnes they commit not; in what ſenſe they'r ſin<g ref="char:EOLhyphen"/>leſle; how farre ſo, by Son-ſhip, and Saint-ſhip; and the fruit that all <note place="margin">Eo nomine <hi>Conſider'd as Saints.</hi>
+               </note> ſuch Gods gracious doings and deal<g ref="char:EOLhyphen"/>ings ſhould have in pardoned and purged ſinners. I make no plea for the Preſs; Let the fruits of my former Labours extant, rid me of the toile. I am weary, and almoſt wildred in wait<g ref="char:EOLhyphen"/>ing for the reſult of extreames, though a glimps of their nature I have had Some load the head with what's the members; others the members with what appertaines to the head: if my fault, 'tis againſt my wil, this Treatiſe tels thee. Do's thy fancy want food,
+<pb facs="tcp:110169:11"/>
+this is not for thee; quaintneſſe in diſcourſes of Chriſt, like painting in windows, do's more darken the light then adorn it. Giddy heads queſtion, ſick reach after little but words; and <hi>queſtio ſatis vexata</hi> is the beſt fruit of their intelligence. Such want not mercenary medlers to match them, whoſe food, at the beſt, is but piety <hi>ad extra,</hi> the ſuperficies of Goodneſſe. 'Tis a comfort to ſome, that airy noti<g ref="char:EOLhyphen"/>ons nouriſh them not. All are not Chamelions; ſome cannot live only on <note place="margin">Sunt qui per<g ref="char:EOLhyphen"/>hibent Chamae<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eonta victitare <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aere ſolo.</note> aire; every thing is not bread for e<g ref="char:EOLhyphen"/>very ſoule: the ſincere, immixed milk of Gods word beſt anſwers the appetite of the empty. All wine, milk, honey, and fatted Calves killed, together with all choiſeſt edibles, are but im<g ref="char:EOLhyphen"/>perfect pictures, and painted nouriſh<g ref="char:EOLhyphen"/>ments, if compared to Chriſts glorious Goſpel-dainties. Oh! when precious Chriſt lets out to the ſoule the ſweet ſmell of oyntments powred forth of his death and wounds, it's a rare feaſt then, and not till then, do's the ſoule ſee, ſmell, and taſt apples of love, free
+<pb facs="tcp:110169:11"/>
+grace, ſatisfied juſtice, and propa<g ref="char:EOLhyphen"/>gated mercie; and then ſuch rari<g ref="char:EOLhyphen"/>ties raiſe the wonder to informe the judgement, and raiſe the affecti<g ref="char:EOLhyphen"/>ons; for Chriſt, and towards him, is moſt in my eye. Oh mortals I has Mammon your hearts, and the heart of your love and life? what ſhall Meſsiah have? O <hi>munde im<g ref="char:EOLhyphen"/>munde,</hi> as hee, in an holy indig<g ref="char:EOLhyphen"/>nation, ſaid of this world; how faſtens our pureſt ſubſtance on thy pollutions? why ſeeks it reſt in that whoſe compoſition is all of tumults? <hi>Nuſquam inveni requiem niſi in Chriſto.</hi>
+            </p>
+            <p>To conclude; if thy thirſt's like his in his flight, thou maiſt per<g ref="char:EOLhyphen"/>haps in this wonder, finde, what to thirſt may afford, if not ſweete<g ref="char:EOLhyphen"/>neſſe; yet ſavour.</p>
+            <p>Give God the glory, reape thou the good; and I have, what I hope, I aimed at, in penning this ſmall piece.</p>
+            <p>
+               <pb facs="tcp:110169:12"/>
+The Lord leade thee into all truth, and me into thy mind, when thou ſeekeſt, and meetest him in his way.</p>
+            <closer>
+               <signed>Thine in the Lords welbe<g ref="char:EOLhyphen"/>loved: his Chriſt, the Saints Jeſus, SAM: MOOR.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110169:12"/>
+            <head>AN Heavenly Wonder. OR, A Chriſtian cloath'd with Chriſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>Cant. 4. 7.</bibl> 
+                  <hi>Thou art all fair my love, there is no ſpot in thee.</hi>
+               </q>
+            </epigraph>
+            <div n="1" type="chapter">
+               <head>CHAP. 1.</head>
+               <div n="1" type="section">
+                  <head>SECT. 1. <hi>All Faire.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">A</seg>Ll Chriſts Encomium's <note place="margin">Pſal. 45. 11. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nde nomen, Joppa à pul<g ref="char:EOLhyphen"/>chritudine &amp; Elegantia, à</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>derivatur Leigh. Crit. ſacr.</hi>
+                     </note> are ſweetly empharicall, <hi>beautifull;</hi> not onely in colour, but comely pro<g ref="char:EOLhyphen"/>portion and Elegancy; attractive beauty, ſuch as drawes love and li<g ref="char:EOLhyphen"/>king, is the import of this word:
+<pb n="2" facs="tcp:110169:13"/>
+and 'tis a word of double form, to note out double, q. d. very excel<g ref="char:EOLhyphen"/>lent beauty, and augment the ſig<g ref="char:EOLhyphen"/>nification. <hi>The righteous is more ex<g ref="char:EOLhyphen"/>cellent</hi> 
+                     <note place="margin">Prov. 12. 26.</note> 
+                     <hi>then his neighbour,</hi> why? hee fulfils all righteouſneſſe? that's his comelineſſe; <hi>it becomes us to ful<g ref="char:EOLhyphen"/>fill all righteouſneſſe</hi> ſaid Chriſt<hi>:</hi> but <note place="margin">Matth. 3. 15.</note> the next neighbour to a righteous man fulfills but ſome righteous things onely, therefore not ſo excellent. Beautiful, in thy graces, the ornaments I have given thee; <hi>thou art comely through my comelineſs</hi> 
+                     <note place="margin">Ezek. 16. 14.</note> 
+                     <hi>which I have put upon thee:</hi> thou art my Spouſe; but I am thy beauty: thine owne is not, has loſt its be<g ref="char:EOLhyphen"/>ing. Where's roome for vaine boaſting, glorying in the fleſh? <note place="margin">
+                        <g ref="char:V">Ʋ</g>xor fulget ra<g ref="char:EOLhyphen"/>dijs Mariti Velut inter Stellas Lund Minores.</note> the Spouſe ſhines out indeed, but 'tis in the rich rayes of her hus<g ref="char:EOLhyphen"/>bands beauty. Chriſts luſtre ſhines out in Chriſtians, as the Moone a<g ref="char:EOLhyphen"/>mong the leſſer Stars, and their glory's but the ſparklings forth of his ſpotleſſe nature, in them; Chriſts beauty fils all the corners
+<pb n="3" facs="tcp:110169:13"/>
+and concavities of the wideſt de<g ref="char:EOLhyphen"/>ſires of ſoules. <hi>Thou O Lord art</hi> 
+                     <note place="margin">Pſal. 3. 3.</note> 
+                     <hi>my glory,</hi> ſaid <hi>David</hi> the King: we hold all things in Capite tenure from Chriſt, thence let us take our name: will you mind that ſatisfy<g ref="char:EOLhyphen"/>ing ſaying? <hi>that you may be filled</hi> 
+                     <note place="margin">Epheſ. 3. 19.</note> 
+                     <hi>with all the fulneſſe of God,</hi> filled with God, a full expreſſion, with the fulneſſe of God, that's more; yet higher, with all the fulneſſe of God. Beauty in God is the a<g ref="char:EOLhyphen"/>menity and lovelineſſe of his na<g ref="char:EOLhyphen"/>ture, and all infinite perfections, as they offer themſelves to his owne underſtanding, and to the under<g ref="char:EOLhyphen"/>ſtanding of men and Angels in their pleaſantneſſe; and this, even this, is the All of a Chriſtians beauty. Is't queri'd how this can be, that Chriſt and Chriſtians ſhare in beauties? We anſwer,</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="4" facs="tcp:110169:14"/>
+                  <head>SECT. 2.</head>
+                  <p>'TIs 1. by regeneration and that into the union and ſameneſſe of Chriſts nature: the Spouſe of the firſt <hi>Adam</hi> came from his owne ſide or loynes, ſo did the wife of the ſecond; ſee how ſweetely divine favours hang together: the Father open'd his boſome, and the Sonne open'd his ſide, to make the chief of ſinners, the chiefe of Saints; the Spouſe opens too; <hi>I opened to my beloved</hi> ſaid ſhe; when once ſweet Chriſt was opened in <hi>Pauls</hi> Miniſtery, <note place="margin">Acts 16. 14.</note> 
+                     <hi>Lydia's heart opened</hi> too, that ſhee tooke in her husband and all his ſayings; there's no love loſt be twixt head and members you ſee. <note place="margin">Cor. 7. 1.</note> 
+                     <hi>We are made partakers of the divine nature,</hi> &amp; he's partaker of humane nature. Chriſt and Chriſtians are Co-partners in natures divine, humane. Such ſoules are truly <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſuperterreſtrial, and the ſoul <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eb. 2. 16.</note> of ſuch ſouls, <hi>i. e.</hi> Chriſt their life
+<pb n="5" facs="tcp:110169:14"/>
+is ſo too. Chriſt matches with thoſe of his owne Stocke, and Tribe, Husband and Spouſe have but one and the ſame Father: <hi>the God and Father of our Lord Jeſus</hi> 
+                     <note place="margin">1 Pet. 1. 3.</note> 
+                     <hi>Chriſt hath begotten us againe,</hi> ſaith the Scriptures. Chriſt's a Chri<g ref="char:EOLhyphen"/>ſtians neer Kinſman, yea brother as well as Husband; <hi>goe tell my bre<g ref="char:EOLhyphen"/>thren I aſcend to my Father, and your</hi> 
+                     <note place="margin">John 20. 17.</note> 
+                     <hi>Father, to my God, and your God.</hi> Sweete is the dew of ſuch ſweete lips, <hi>which lips, like Lillies, drop</hi> 
+                     <note place="margin">Cant. 5. 13.</note> 
+                     <hi>ſuch ſweet ſmelling Myrrhe.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. 3.</head>
+                  <p n="2">2. BY Tranſnomination, the change of their names. To have a ſameneſſe of name from the ſameneſſe of nature with Chriſt, beautifies believers bountifully. When the match is made up be<g ref="char:EOLhyphen"/>tween Chriſt and the ſoule, that ſoule bears her Soveraign's name. The Spouſe of the firſt <hi>Adam</hi> and
+<pb n="6" facs="tcp:110169:15"/>
+her husband had both one name, God called their name <hi>Adam</hi> in <note place="margin">Gen. 5. 2.</note> the day that he made them: ſo the Spouſe of the ſecond <hi>Adam,</hi> in the change of her condition from a ſingle, to a married eſtate with Chriſt, the Lamb, had a change of her name, the head is called Chriſt, <note place="margin">Cor. 12. 12. <hi>
+                           <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>put &amp; cor<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>s unùs eſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hriſtus,</hi> Aug. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al. 3. 16. <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rap in Locum.</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cts 9. 4. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſalm 24. 6. Chron: 22.9 <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iodate</hi> on <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ant. 6. 13. <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>inſworth</hi> on <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſame.</note> and the members are call'd Chriſt. <hi>Why perſecuteſt thou me,</hi> i. e. myſti<g ref="char:EOLhyphen"/>call Chriſt, my body. And God is called <hi>Jacob</hi> in the Pſalmes; Chriſt is <hi>Solomon,</hi> in this ſweet ſong, in Hebrew <hi>Sholomoh</hi> of peace; and his Church is called Shulamite by her Bride-groomes name; and therfore the forming of the word is rather active then paſſive; Chriſt and Chriſtians are <hi>homonymon,</hi> of the ſame name; he's call'd <hi>the fai<g ref="char:EOLhyphen"/>rest among men,</hi> ſhee <hi>the faireſt a<g ref="char:EOLhyphen"/>mong</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſal. 45. 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ant. 1. 8. 5.</note> 
+                     <hi>women.</hi> Believers, theſe are ſweets we ſpeake of, Chriſt is cal<g ref="char:EOLhyphen"/>led your fulneſs; <hi>of his fulneſſe have wee received:</hi> and ye are called his <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohn 1. 16.</note> fulneſſe; <hi>his body is the fulneſſe of</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pheſ. 1. 23.</note> 
+                     <hi>him that filleth all in all.</hi> 'Tis one
+<pb n="7" facs="tcp:110169:15"/>
+branch of the new Covenant, that God would give his people <hi>a new</hi> 
+                     <note place="margin">Iſa. 62. 2.</note> 
+                     <hi>name,</hi> yea <hi>a better name then is that of ſonnes and daughters.</hi> Beauty is a taking thing, can doe much with Chriſt, <hi>thou hast raviſhed my heart,</hi> carryed, ſnatch'd away my heart, my Spouſe, and God will do much for his names ſake, 'tis a coercive<g ref="char:punc">▪</g> cogent argument, which takes with God, when nothing elſe wil; <hi>Thou O Lord art in the middes of us,</hi> 
+                     <note place="margin">Jer. 14.9.</note> 
+                     <hi>and we are called by thy name, leave us not,</hi> leave us not for thy names ſake; Chriſt and Chriſtians are name-ſakes, have but one name.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. 4.</head>
+                  <p n="3">3. BY hereditation or birth-right. Children of men are not all Heirs borne; but all Gods Children are firſt-bornes: great is the comfort of ſuch; every Spouſe of Chriſt is a lawful borne Heir of all Chriſts Ornaments,
+<pb n="8" facs="tcp:110169:16"/>
+goodneſſe, they are <hi>heires, heirs of God, and joynt-heires with Chriſt;</hi> words like Mountains of Pearles: Chriſtians, Chriſts beauti's your birth-right, you'r <hi>black, but comely;</hi> black in your ſelves, but comely in Chriſt; Loathſome in your ſelves, but lovely in this Sonne of love, and the life of your Luſtre is laid up in him; that <hi>when he appears,</hi> you alſo <hi>may appear with him in glory.</hi> A <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oloſſ. 3. 4.</note> believer (my friends) is very rich &amp; very honorable; ſay he were a beg<g ref="char:EOLhyphen"/>gar on a dunghill, for Chriſt's not poore, and hee's joynt-heire with Chriſt; a <hi>Lazarus</hi> full of running ſores, and bowed to reception of reliefe from dogs and cloathing of Rags; hee's all <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>till, nor is his body like a Leopards that cannot change his skin. <hi>Pearls are pearls, though in midſt of puddle.</hi> The Father of Chriſt hath <hi>begotten his</hi> Spouſe <hi>to an inheritance incorruptible, and</hi> 
+                     <note place="margin">Pet. 1. 4.</note> 
+                     <hi>that fades not away,</hi> in which place of <hi>Peter,</hi> the Holy Ghoſt ex<g ref="char:EOLhyphen"/>preſſes their inheritance by two
+<pb n="9" facs="tcp:110169:16"/>
+moſt fit words; the one is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <note place="margin">
+                        <hi>Flos qui nun<g ref="char:EOLhyphen"/>quammarceſcit, dictus indè im<g ref="char:EOLhyphen"/>mortalis ab a &amp;</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Plin. <hi>lib.</hi> 21. <hi>cap.</hi> 11.</note> the name of a precious Stone, which, though caſt into fire and ſoyled, cannot bee blemiſhed; but is the more brightened; the o<g ref="char:EOLhyphen"/>ther is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the name of a flow<g ref="char:EOLhyphen"/>er, which, Writers tell us, may be kept continually freſh and greene; all Saints are high born Children, of a Princely ſeed, bloud-royall; they are Lords of the Higher <note place="margin">Luke 22. 30.</note> Houſe, divide the throne with Chriſt by birth-right, they are Chriſts aſſeſſors, &amp; fellow-Peers, to judge the world with him; yea to judge Angels beauties; their birth-right, inheritance, heritage. <note place="margin">1 Cor. 6.2, 3.</note>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. 5.</head>
+                  <p n="4">4. BY propagation<g ref="char:punc">▪</g> Chriſts beau<g ref="char:EOLhyphen"/>tie's of a ſpreading nature, ther's a vaſtneſſe in its extentions, it goes far and wide, and tis the co<g ref="char:EOLhyphen"/>vering of the uncomelineſſe of all his Linage; ſinfull deformity can
+<pb n="10" facs="tcp:110169:17"/>
+goe a great way, it can ſtaine all ex<g ref="char:EOLhyphen"/>ternalls, internalls too: yet Chriſts beauty out-vies, out-runs, and out-lives it, will ſpread all over the black Spouſe, till ſhee's comely without and within. Sprincklings of Chriſts bloud ſpreading inward<g ref="char:EOLhyphen"/>ly, being firſt ſhead abroad, will fetch out all ſinfull ſpots &amp; ſtains, 'twill make a man ſhine like the Sun in the kingdome of his father; this heavenly Pellican, revives his dead young ones with ſcattering <note place="margin">Revel. 1. 5.</note> his own hearts bloud among them; and when wrath burnt about them, caſt himſelf into the mid'ſt there<g ref="char:EOLhyphen"/>of to quench it, all this from the appearance of Chriſt in them; <hi>He appeared to put away ſin,</hi> viz. in the ſame ſence the Lawes are ſaid to be made voide, when they looſe their <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Heb. 9. 26.</note> power and force. Art thou Chriſts Spouſe? ſin ſhall never ſo ſpread in thee, ſo as to cover and over-power all thats good in thee, make it life-leſſe, love-leſſe, if once pre<g ref="char:EOLhyphen"/>cious Chriſt layes his skirt over
+<pb n="11" facs="tcp:110169:17"/>
+thee, the ſhame of thy nakedneſſe, which is thy deformity will, be in<g ref="char:EOLhyphen"/>viſible: Light from Heaven will firſt or laſt, ſhine round about thee, and then darkeſt night will be ligh<g ref="char:EOLhyphen"/>teſt day, then thou wilt ſee no cor<g ref="char:EOLhyphen"/>ner in thy heart, where Chriſts beauty has not been: this ocean of glory has his rivers running out from him, which, when they have cleanſed hearts, returne into him againe. Let ſweet Chriſt load thee with fetters of Love, that thou maieſt ſinke deepe, even downe to the bottome of this Sea of grace, if not a bottomleſſe, fathomleſſe one. The brightneſſe of pearles is from the frequent beatings of the Suns beames upon them, thence become they radiant; every Chri<g ref="char:EOLhyphen"/>ſtian, is Chriſts pearle, and all his beauty, is beaten in by beames of Chriſts beautie.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="12" facs="tcp:110169:18"/>
+                  <head>SECT. 6.</head>
+                  <p n="5">5. BY paction comes beautie too, <hi>Thou ſhalt not be for ano<g ref="char:EOLhyphen"/>ther,</hi> 
+                     <note place="margin">Hoſea 3. 3.</note> 
+                     <hi>for all, ſo alſo will I be for thee.</hi> Chriſt keepes himſelfe and gives himſelfe for Chriſtians; they doe the like for Chriſt: when hee be<g ref="char:EOLhyphen"/>ſtows himſelfe on a ſoule, he brings his Dowry with him. Chriſtians, doe you note this? in the league of Chriſt with the ſoule, there are ex<g ref="char:EOLhyphen"/>changes made of glory for ſhame, beauty for deformity; ſweet Chriſt makes ſuch matches as never man made; gives gold for dirt, cloaths earth with Heaven, gives glory for ſhame, a maſſie Crowne for a maſ<g ref="char:EOLhyphen"/>ſie Croſſe, takes off a poore ſoules ragges, and returnes robes; and gets nothing with us, but a burden of ſinnes, as heavy as a mountaine of iron, as hell it ſelfe; a burden which hee muſt beare and burie; yet wee poore ſoules can be ſhie of this Suiter, and often ſay him nay.
+<pb n="13" facs="tcp:110169:18"/>
+Ah Lord! what a wonder is this, will no body take it up, ſtand arna<g ref="char:EOLhyphen"/>zed and amuſed in earneſt! a Chri<g ref="char:EOLhyphen"/>ſtian being married to Chriſt, in <note place="margin">1 Cor. 3. 21. Pſal. 37. 11.</note> League with Chriſt, makes all things thine by paction; art thou hungry? all the bread 'ith world's thy fathers; art thou in a Ship at Sea? thou' art in thy fathers waters; art thou in the fields? they are thy redeemers, thy husbands, and what ſeeſt thou which is not his? all the Woods, Trees, Flowers, Corne, Cattell, and birds in every buſh, call thy God father, and they are all thine, not in poſſeſſion, but in a choice, free-hold Heritage; thou haſt the beſt income of all, and thy Land is named <hi>all things;</hi> the worſt things are thine by way of reducti<g ref="char:EOLhyphen"/>on, <note place="margin">Rev. 21. 7.</note> and the beſt things are thine in way of reverſion; <hi>Tanquam haeres ex aſſe;</hi> There's a ſweet communi<g ref="char:EOLhyphen"/>cation of all Chriſts beauty, goods, and goodneſſe, to the wife of his boſome: and 'tis hee that heades all her glory, Crowns all her com<g ref="char:EOLhyphen"/>forts,
+<pb n="14" facs="tcp:110169:19"/>
+and converts all her croſſes into contentments; <hi>his preſence is her Paradiſe, his victory her ſafetie.</hi> O! Chriſt, is a condition ſweet<g ref="char:EOLhyphen"/>ning Husband, he makes our ſoure herbes, and bitter pills ſweet, our rough wayes ſmooth, and doth plaine all mountaines that inter<g ref="char:EOLhyphen"/>vene twixt us and him, our ſoules, and his bleſſed boſome; and all this, to ſtrengthen our motion that way. Chriſtians by Covenant, are coupled to Chriſt; the Tabernacle <note place="margin">Col. 3. 14.</note> Curtaines had their juncture by Loopes; Chriſt and his members their juncture by Love, <hi>the bond of perfection</hi> or couple thereof. <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. 7.</head>
+                  <p n="6">6. BY Speculation Spirituall, or Contemplation of the ſame kinde: Roſes, Lillies, Medowes, Gardens; and all things faire and pleaſant, raviſh the ſight firſt; and then wooe and win the heart next,
+<pb n="15" facs="tcp:110169:19"/>
+and ſo take rooting there; ſights of Chriſts beauty, if cleare, are tranſ<g ref="char:EOLhyphen"/>forming, <note place="margin">Colamus hunc<g ref="char:EOLunhyphen"/>deum reveren<g ref="char:EOLhyphen"/>ter donec a ſpe<g ref="char:EOLunhyphen"/>ad ſpeciem tranſeamus.</note> and the more the eye re<g ref="char:EOLhyphen"/>ceives that light, the more is its ſtrength of ſight, Chriſts beautie being more quickening then kil<g ref="char:EOLhyphen"/>ling to the optick nerves and pow<g ref="char:EOLhyphen"/>ers; beleevers doe contemplate, by faith, the glorious Light of God, his mercy, truth, and goodneſſe in the Goſpells Glaſſe, thence they receive his impreſſe, Image, and likeneſſe; <hi>Wee, with open face, behold<g ref="char:EOLhyphen"/>ing</hi> 
+                     <note place="margin">2 Cor. 3. 18.</note> 
+                     <hi>the Lords glory, are changed into the ſame Image:</hi> Where, the Apo<g ref="char:EOLhyphen"/>ſtle <note place="margin">
+                        <hi>Diodate</hi> on the place.</note> intimates a likeneſſe, or ſame<g ref="char:EOLhyphen"/>neſſe of Glorie, coming in by holy ſpeculation; and a graduall likeneſs too from glory to glory. <hi>i. e.</hi> ſay ſome, from grace to grace: for full<g ref="char:EOLhyphen"/>neſſe of grace is the beſt thing in <note place="margin">Trap. in locum.</note> glory, next to its Author; other things, as joy, peace, and love, are but the ſhinings forth of this full<g ref="char:EOLhyphen"/>neſſe of grace, in glory. The parts of viſion are precede<g ref="char:cmbAbbrStroke">̄</g>t to the parts of action, hence the right eye is
+<pb n="16" facs="tcp:110169:20"/>
+preferred before the right hand, God himſelfe although he had nei<g ref="char:EOLhyphen"/>ther acceſſion nor intermiſſion of delight, yet by way of Emphaſis to us-ward ſeemes to give his <hi>vidit</hi> the precedence of his <hi>fiat.</hi> q. d. hee <note place="margin">
+                        <hi>Rein. Paſſ. &amp; facul. p.</hi> 204.</note> joyed not ſo much in that hee had given the Creatures their natures, as in that hee ſaw their goodneſſe. Hence, ſay ſome, the day of his reſt was more holy than the day of his labour, that being appointed for Contemplation, as the other for production of his Creatures. Ho<g ref="char:EOLhyphen"/>ly Speculation and Contemplati<g ref="char:EOLhyphen"/>on of Chriſt, has a great hand in letting in the light of the beautie and Glory of Chriſt. He that ſtu<g ref="char:EOLhyphen"/>dies <hi>Moſes</hi> his Optickes, and ha's a Patriarches eye, makes the beſt choice by the ſight of the inviſible Eſſence; an elegant contradiction, <hi>ſeeing him who is inviſible.</hi> Chriſts <note place="margin">Heb. 11. 27.</note> Spouſe is <hi>all faire,</hi> in what ſence and ſort you have ſeene.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="17" facs="tcp:110169:20"/>
+               <epigraph>
+                  <q>There is no ſpot in thee.</q>
+               </epigraph>
+               <head>CHAP. 2.</head>
+               <div n="1" type="section">
+                  <head>SECT. 1.</head>
+                  <p>ITs the good will of him that <hi>dwelt in the buſh to call things</hi> 
+                     <note place="margin">Dent. 33. 16. Rom. 4. 17.</note> 
+                     <hi>which are not as though they were:</hi> Holieſt Majeſty pleaſeth to over<g ref="char:EOLhyphen"/>looke greateſt impuritie; ſinnes of Saints are ſuperlative, as acted un<g ref="char:EOLhyphen"/>der the received Soveraigntie of Chriſt their King: yet behold a wonder, Saints ſinne, and doe not ſinne, have ſpots, and are ſpotleſs; <note place="margin">Exod. 15. 11.</note> its his ſaying who's <hi>wonderfull in</hi> 
+                     <note place="margin">Pro. 10. 12.</note> 
+                     <hi>holineſſe.</hi> There's a ſin-covering Love, which has covered and con<g ref="char:EOLhyphen"/>quered corruptions of Saints, yea, multitudes by multipli'd pardons; <hi>her ſinnes which were many are forgi<g ref="char:EOLhyphen"/>ven</hi> 
+                     <note place="margin">Luk. 7. 47.</note> 
+                     <hi>her;</hi> this bids the godly <hi>Bee of good cheere.</hi> Saints ſins are ever be<g ref="char:EOLhyphen"/>fore them, yet caſt behinde their God; <hi>My ſinne is ever before mee,</hi> 
+                     <note place="margin">Pſal. 51. 3.</note> ſayes the ſoule in Languor, and then makes melody with her fa<g ref="char:EOLhyphen"/>thers
+<pb n="18" facs="tcp:110169:21"/>
+love; <hi>Thou in love to my ſoule</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſa, 38. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7.</note> 
+                     <hi>haſt caſt all my ſins behinde thy backe.</hi> Their Crimſon ſinnes have loſt their colour, and had their Sepul<g ref="char:EOLhyphen"/>ture in their Saviours wounds, their foule ſinnes are loſt in this open fountaine, to whom them<g ref="char:EOLhyphen"/>ſelves are a fountaine ſealed; yea <note place="margin">Zech. 13. 1.</note> his fountaine of pureſt ſprings and faireſt gardens. Thus ſpeakes hee, whoſe <hi>lippes, like Lillies, drop ſweet</hi> 
+                     <note place="margin">Cant. 4.12. 15</note> 
+                     <hi>ſmelling Myrrhe,</hi>
+                  </p>
+                  <q>
+                     <hi>There's no ſpot in thee.</hi> 
+                     <note place="margin">Cant. 5. 13.</note>
+                  </q>
+                  <p>The word, in the Originals of three Languages, imports any out-ward blemiſh in the body, as blind, lame, or deformed in any limbe or <note place="margin">Levit. 21. 18. 21. Deut. 15. 21. and 17. 1. Rev. 14. 1. 5. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>undè</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, and the Chaldee, <hi>Mum<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>: quo ver<g ref="char:EOLhyphen"/>bo L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>x. illud frequenter red<g ref="char:EOLhyphen"/>dunt Macula, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>abes, vitium.</hi>
+                     </note> part, and is here fitly appli'd, by the Holy Ghoſt, to blemiſhes in the ſoule, <hi>h. e.</hi> ſins, vices, and ſpots of the inward man. Chriſt, when he wooes his Bride; to winne her, works over thoſe miracles on her ſoule, which he was wont to worke upon bodies of old; makes the blinde to ſee, the deafe to heare, the dumbe to ſpeake, the lame to
+<pb n="19" facs="tcp:110169:21"/>
+walke, and the dead to live againe, ſets all to rights where he comes to cohabite. Chriſt is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſpot<g ref="char:EOLhyphen"/>leſſe, and a Chriſtian is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> too, they are both immaculate, their u<g ref="char:EOLhyphen"/>nion grounds it; ſo in the Text, the Spouſe is ſaid to have no ſpot in <note place="margin">1 Pet. 1. 19. Eph. 5. 27. <hi>V<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ij expers, ir<g ref="char:EOLhyphen"/>reprehenſibilis; in quibus, nec momos invenit quod carpat.</hi> Cornelius a Lapide.</note> her too. That place, in the firſt of <hi>John,</hi> the third &amp; ninth verſe, gives you a light into the opening of this phraſe of ſpeech; <hi>Hee that's borne of God doth not commit ſinne: for his ſeede remaineth in him, and he cannot ſin, becauſe hee's borne of God;</hi> he ſins not, <hi>viz.</hi> unto death, as ſome will; he ſins not, <hi>viz.</hi> he reſiſts ſin, as o<g ref="char:EOLhyphen"/>thers; he ſins not, <hi>viz.</hi> as a ſervant, or ſubject of ſin, ſay a third ſort: <note place="margin">
+                        <hi>Propriè ſignifi<g ref="char:EOLhyphen"/>cat rem aliquam certis qualitati<g ref="char:EOLhyphen"/>bus orno dicitur enim à nomine</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>qualis.</hi> Leig. C<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>r. Sac.</note> the Greek is very emphaticall, and ſignifies ſo to ſinne, as to make a trade of ſin, to make it ones work and buſineſſe, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>q. d.</hi> hee do's not act the ſin; do's not ſin ar<g ref="char:EOLhyphen"/>tificially, as doe others; ha's no art in ſinning; though he act it, he do's not art it, do's not <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, make much of ſin, not curiouſly and in<g ref="char:EOLhyphen"/>duſtriouſly
+<pb n="20" facs="tcp:110169:22"/>
+adorne and ſet it forth with all art and skill, as the word properly imports. One place more in he eight of <hi>John,</hi> and the thir<g ref="char:EOLhyphen"/>tie fourth verſe, where t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſame word is uſed, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Whoſoever committeth ſin, is the ſervant of ſin;</hi> but the beſt of men commit ſinne, even of them who are Chriſts own ſervants, freed from ſin: the mean<g ref="char:EOLhyphen"/>ing then of that place is this, hee ſins as a ſervant of ſin, who makes ſin, makes a trade of ſinning. So in the <hi>Romans,</hi> that which our tranſla<g ref="char:EOLhyphen"/>tion ha's, <hi>Fullfill not the lusts of the</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om. 13. 14.</note> 
+                     <hi>fleſh;</hi> the Greek ha's it, <hi>Doe not make</hi> 
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> &amp;c.</note> 
+                     <hi>the luſts of the fleſh. Hee that commit<g ref="char:EOLhyphen"/>teth ſin is of the Devill,</hi> ſayes the Scripture, that is, that creates ſin, for ſin is the Devills Creature, his workmanſhip; and his <hi>Children, his</hi> 
+                     <note place="margin">John 3. 8.</note> 
+                     <hi>works they will doe,</hi> ſaid Chriſt to the boaſting <hi>Jewes.</hi> There's no ſpot in thee, ſome ſpots are not the chil<g ref="char:EOLhyphen"/>drens, wee'l ſhew which they are next, in what ſence they'r ſpoken ſpotleſſe, how and why ſo called.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="21" facs="tcp:110169:22"/>
+                  <head>SECT. 2.</head>
+                  <p n="1">1. UNpardonable ſpots are not the Spouſes; ſhee cannot out-ſin pardons, ſhee may ſin away the comforts of her body, but can ſhee ſin away her ſoule? an unpar<g ref="char:EOLhyphen"/>donable ſin is a ſin unto death; ſuch killing crimes ſhee perpe<g ref="char:EOLhyphen"/>trates not, <hi>ſinnes againſt the Father and ſins againſt the Sonne</hi> may <hi>be for<g ref="char:EOLhyphen"/>given, but ſins againſt the Spirit ſhall</hi> ne're <hi>be forgiven,</hi> ſhees on the other ſide the grave of the laſt ſin men<g ref="char:EOLhyphen"/>tioned; ſhee has no ſin that God has not pardoned, hence her ſin is not now, <hi>iniquities of Iſrael are ſought for, and there are none, and Ju<g ref="char:EOLhyphen"/>dahs</hi> 
+                     <note place="margin">Jer. 50. 20. M<hi rend="sup">r</hi>. <hi>Caryll</hi> on <hi>Job</hi> Chap. 7. v. 21. p. 717.</note> 
+                     <hi>ſins ſhall not be found,</hi> becauſe pardoned, as was promiſed, as <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> hath it; pardon of ſin deſtroys ſin: as to forgive a debt is to make it no debt; ſo a pardon'd ſin is in Gods account no ſin; pardon of ſin is our acquittance from ſin, our <hi>quietus eſt,</hi> ſealed in the bloud of the
+<pb n="22" facs="tcp:110169:23"/>
+Lambe; all proſceſſe at Law, is to to ſuch, ſtaid, prohibited, as to them; They have a Propitiator; &amp; <hi>hee's their propitiation,</hi> ſaith <hi>John;</hi> in Hebrew, <hi>Copher,</hi> he coffers up, as <note place="margin">1 Joh. 2. 2.</note> it were, and covers all their ſins; hee's their covering: the Apoſtle ſeemes to ſpeake him ſo, in alluſi<g ref="char:EOLhyphen"/>on to the Arke, covering the two Tables within it; The mercy-ſeate covering the Arke, and the Che<g ref="char:EOLhyphen"/>rubims covering the mercy-ſeate, and one another<hi>:</hi> ſo Chriſt has co<g ref="char:EOLhyphen"/>vered a Chriſtians ſins, all his ſins, and the curſe, ſins demerit, and <hi>him has the Father ſet forth for the remiſ<g ref="char:EOLhyphen"/>ſion</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om. 3. 25.</note> 
+                     <hi>of their ſinnes;</hi> ſet forth, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, pointing out the ſame thing, even with the finger, as the word is for remiſſion, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, for the relaxion <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ioda<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</note> or releaſement of ſin, as of bonds or fetters, as the Greeke has it; Chriſts Love cannot ſin an unpar<g ref="char:EOLhyphen"/>donable ſin; O Spouſe! ſpeak thou, <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> full deſcrip<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>on of the ſin <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gainſt the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oly Ghoſt.</note> canſt thou doe <hi>deſpight to the Spirit of grace,</hi> perſecute the known truth, and the Author thereof, ſinning
+<pb n="23" facs="tcp:110169:23"/>
+                     <hi>willfully?</hi> what, canſt thou, after Heavenly <hi>illumination,</hi> partnerſhip in the Spirit, <hi>taſts of Heavenly gifts, with the good word of God, and the Powers of the world to come,</hi> decline Father, Sonne, and Spirit, prove an Apoſtate, fall away, and ſin re<g ref="char:EOLhyphen"/>morſleſſe? thou canſt not ſweet Lambe, is never Bride of his ſerved him ſo, had ſuch ſtrait<g ref="char:EOLhyphen"/>ned bowells towards him; ſuch ſinners cannot be <hi>renewed by repen<g ref="char:EOLhyphen"/>tance,</hi> ſhall never <hi>have pardon in this world, nor that which is to come;</hi> 'tis the ſaying of Chriſt the Judge, and why? for thou acteſt afreſh Crucification of Chriſt to thy ſelfe, art a Caitife, ſhame-Chriſt, freſh-kil-Chriſt, <hi>Quaſi dicat,</hi> Chriſt was alive to thee, and in thee, not only in patefaction and manifeſta<g ref="char:EOLhyphen"/>tion, but in operation: but now, he that lives in himſelfe, &amp; to others, is dead to thee, and with the life of Chriſt, haſt thou loſt the life of all thats good for thy better part, how will hee quicken thee no more, ne<g ref="char:EOLhyphen"/>ver
+<pb n="24" facs="tcp:110169:24"/>
+intreate, wooe, or beſeech thee any more, never wil heavenly gales of the Spirit reach thy heart more. Who reads theſe lines that trem<g ref="char:EOLhyphen"/>bles at truth, and is void of regret, now all ordinances, duties, ſervices are life-leſſe, love-leſſe to ſuch a ſoule, who will cry when too late as hee, I wretched in my ſelfe dy<g ref="char:EOLhyphen"/>ing, <note place="margin">Nil miſero vi<g ref="char:EOLhyphen"/>vit moriente mihi.</note> nothing is alive to mee. But I feare ſometimes may a loyall ſoule ſay, this is my ſpot, and I have find in this very kinde; I would faine know the worſt by my ſelfe: an u<g ref="char:EOLhyphen"/>niverſall hardneſſe of heart attends it. There's a twofold hardneſſe of heart, one in thoſe who never did or can ſin in ſo high a meaſure; the other in them who are flagitious in this higheſt degree of ſinning; hardneſſe of heart in the firſt ſort is like the hardneſſe of water con<g ref="char:EOLhyphen"/>gealed, an Iſicle or Icie hardneſſe which is ſuch as that for ſome ſea<g ref="char:EOLhyphen"/>ſon it may bear burdens of weight and bulke; but when once the Sun with its laſting heate of raies and
+<pb n="25" facs="tcp:110169:24"/>
+beames ſmiles upon it, diſſolves, melts away into its owne liquid moiſture, as at firſt: ſo here, poore ſoule, thou crieſt out I have a hard heart, O what ſhall I doe, I reape no good from the word or works of God, thrive not under thriving meanes, and ſometimes ſayſt thou haſt ſin'd this ſinne. Conſider, ſad ſoule, thou art hardned but by fits; thy winter laſts not long, thy ſum<g ref="char:EOLhyphen"/>mers Sun is coming, and brings a<g ref="char:EOLhyphen"/>long with it the Sabbath of thoſe thoughts, Jeſus Chriſt will ſhine out unto thee with a continued ſmile, and then thy hardneſſe will looſe it nature, mercy can mollifie ſuch in a matchleſſe manner. <hi>Peter</hi> 
+                     <note place="margin">Math. 26. 70. <hi>ad ſinem.</hi> Luk. 22. 54. to 63.</note> a good man, yet had he a very hard heart for a time, an unworthy, un<g ref="char:EOLhyphen"/>kind ſerva<g ref="char:cmbAbbrStroke">̄</g>t to his Maſter, the while; when ſweet Chriſt was had to the high Prieſts Hall, hee would not own him, was aſhamed of him, <hi>fol<g ref="char:EOLhyphen"/>lowed him a far off,</hi> and when he had entred the Houſe, <hi>den<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'d him,</hi> did it <hi>thrice,</hi> bound his ſayings with an
+<pb n="26" facs="tcp:110169:25"/>
+oath and a curſe, to prove <hi>he knew not the man,</hi> yet for all this, kinde Chriſt, by one look of Love, thaw<g ref="char:EOLhyphen"/>ed his frozen, hard heart, that it melted like wax in the ſight of the Sunne, <hi>he wept bitterly,</hi> not without cauſe.</p>
+                  <p>But ſecondly, hardneſſe in ſuch as have ſin'd this ſin is ſuch as is the hardneſſe of a Stone, a ſtony hard<g ref="char:EOLhyphen"/>neſſe, which the more it hath of the Sun, the more its hardened ſtill, ſuch wax worſe and worſe, and af<g ref="char:EOLhyphen"/>ter the hardneſſe of their hearts, heap up the reward of miſdeeds; hence the ſame Sun that ſoftens wax, hardens clay, makes the ſoft iron hard, and the hard ſteele ſoft, the hot fire coole, and the cold water warme; Have ſuch their hearts broken by judgements? the hardneſſe remaines ſtill; ſave that 'tis diſperſed into ſeverall parts, &amp; broken parcells: as a ſtone, thats broken all to pieces, is a ſtone ſtill, retains its hardneſſe in the leaſt of its parts, as truly, as when 'twas u<g ref="char:EOLhyphen"/>nited,
+<pb n="27" facs="tcp:110169:25"/>
+and in the whole thereof. There hardneſſe is Homogeneous, <note place="margin">
+                        <hi>Homogeneum eſt quod conſtat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ex partibus, i<g ref="char:EOLhyphen"/>dem nomen cun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> to<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o habentibus,</hi> Keck. Syſtem<g ref="char:punc">▪</g> Log. l. 1. c. 22<g ref="char:punc">▪</g>
+                     </note> like that of a ſtone, each ſmall por<g ref="char:EOLhyphen"/>tion retaining the nature and name of the whole; <hi>Quaelibet pars aqua eſt aquae,</hi> every drop of water is wa<g ref="char:EOLhyphen"/>ter, and every ſparke of fire is fire; ſo is ſuch hardneſs, though diſper<g ref="char:EOLhyphen"/>ſed, divided, taken in pieces, ſuch may have their legall fractions, but ſtrangers they will be to all evangelicall contrition; and ſpider-like, ſucke they poyſon from the ſame flower the Bee ſucks honey.</p>
+                  <p>2. Loſſe of feeling, and aliena<g ref="char:EOLhyphen"/>tion from the life of God, as <hi>Paul</hi> to the <hi>Epheſians</hi> ſpeakes, darkneſſe <note place="margin">Eph. 4. 18, 19<g ref="char:punc">▪</g>
+                     </note> of underſtanding, and blindneſſe of heart, Greeke <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, hardneſſe, brawnineſſe, a hoofe upon their <note place="margin">
+                        <hi>Collum obdu<g ref="char:EOLhyphen"/>ctum,</hi> Trap.</note> hearts, brawny breſts, horny heart<g ref="char:EOLhyphen"/>ſtrings; a metaphor taken from hardeſt hands of hardeſt labourers; under a dead and dedolent diſpo<g ref="char:EOLhyphen"/>ſition, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>De<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>olentes, Deſperantes.</hi> Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tanus.</note> deſperately ſinfull, and re<g ref="char:EOLhyphen"/>morſleſſe, feareleſſe of the Maje<g ref="char:EOLhyphen"/>ſtie of God, to which is added a
+<pb n="28" facs="tcp:110169:26"/>
+cauteriz'd conſcience, like Devills, having nothing to doe with God, loth to be tormented before their time, and a contracted hardneſſe through cuſtome in ſin, ſo as nei<g ref="char:EOLhyphen"/>ther Miniſtry, nor miſery, nor mi<g ref="char:EOLhyphen"/>racle, nor mercy, can molifie their hearts, being dry, ſtiffe, inflexible, and ſenceleſſe, impenitent, having a lifeleſſe frame as to the uſe of means, being bereft of all and ſin<g ref="char:EOLhyphen"/>gular checks of conſcience, ſinning unſmitten, and not at all wounded in Chriſt his wounds, the laſt de<g ref="char:EOLhyphen"/>gree and fullneſſe of that ſad alie<g ref="char:EOLhyphen"/>nation from the light and life of God. Men, when ſo ſick that their excrementalls paſſe through them inſenſibly, are then mortally ſicke<hi>:</hi> we ſay ſo, ſuch can thinke, ſpeake, and act any thing, all laſciviouſnes, and uncleanneſſe, &amp; that with gree<g ref="char:EOLhyphen"/>dineſſe, voide of all ſence and fee<g ref="char:EOLhyphen"/>ling, which argues they have the initium, preguſtion, beginning, and <note place="margin">Vide <hi>Mat.</hi> 13. 13, 14, 15.</note> firſt taſt of ſpirituall and eternall death already; hence matter of ho<g ref="char:EOLhyphen"/>ly
+<pb n="29" facs="tcp:110169:26"/>
+and heavenly Melody is to them <note place="margin">Simulata ſan<g ref="char:EOLhyphen"/>ctitas, eſt du<g ref="char:EOLhyphen"/>plex iniquitas.</note> as Muſicke in a dead mans eares, or language to a ſtocke or ſtone, which penetrates not. That the <hi>Quondam</hi> high flowne, but now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouly and low fallen profeſſors, of this age, be not of this number, <hi>faxit deus;</hi> it is my deſire, if to God it ſeeme good; O fooliſh and un<g ref="char:EOLhyphen"/>kinde! can looſeneſſe of life ſpeake out your love to the Lord? bluſh you not at all when you looke on the Lambe that was ſlaine? muſt he indeed be twice ſlain? what, by you? is <hi>Iſcariot</hi> alive ſtill? can you like <note place="margin">Caveatur oſcu<g ref="char:EOLhyphen"/>lum Iſcarioti<g ref="char:EOLhyphen"/>cum.</note> that, kill Chriſt, kiſſe and kill toge<g ref="char:EOLhyphen"/>ther? what againe and againe? were not his wounds widened before, canſt thou adde afflictions to his bonds, who owned and <hi>reliev'd thee in Chaines,</hi> ſought <hi>thee out and re<g ref="char:EOLhyphen"/>freſhed thy bowells?</hi> Canſt thou, thou that didſt once cry up Chriſt, be vi<g ref="char:EOLhyphen"/>cious, when he is gracious? <hi>avertat deus. Sipio,</hi> when an Harlot was of<g ref="char:EOLhyphen"/>fered, <note place="margin">Vellem ſi non eſſem impera<g ref="char:EOLhyphen"/>tor.</note> him could ſay, I would, if I were not a Generall<hi>:</hi> ſay thou, if I
+<pb n="30" facs="tcp:110169:27"/>
+were not a Chriſtian; will ſome doe ſo much for their honour, and canſt thou doe leſſe for thy God?</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. 3.</head>
+                  <p n="2">2. THe ſpot of preſumptuous ſin is not the Spouſes, that's the <hi>great tranſgreſsion David</hi> fear'd <note place="margin">Pſal. 19. 13.</note> to co<g ref="char:cmbAbbrStroke">̄</g>mit, pray'd to be freed from; <hi>Keepe backe thy ſervant from pre<g ref="char:EOLhyphen"/>ſumptuous ſinnes; Let them not have dominion over mee, then ſhall I bee upright, and I ſhall be innocent from the great tranſgreſsion.</hi> To ſin this ſin, is to ſin contu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aciouſly, perti<g ref="char:EOLunhyphen"/>naciouſly, maliciouſly, induſtriouſ<g ref="char:EOLhyphen"/>ly, with the higheſt hand, on pur<g ref="char:EOLhyphen"/>poſe, as ſome will, to affront Gods good motions of grace, proudly; Ile give my opinion, 'tis a ſin that looks like Hell, it has no home but Hell; <hi>Nifallor;</hi> all ſin ſeems to be the Devills Creature, hee was the firſt that made ſinne; but this ſinne ſeemes to have been that which
+<pb n="31" facs="tcp:110169:27"/>
+made him, Satan, a Devill, and to have tranſform'd him from an An<g ref="char:EOLhyphen"/>gel of light into a Prince of dark<g ref="char:EOLhyphen"/>neſſe: This ſpot is not the Spou<g ref="char:EOLhyphen"/>ſes. But behold another draught of this ſin, 'tis ſo to ſin, as that a man propounds pardon to himſelfe be<g ref="char:EOLhyphen"/>fore the act of ſinning, 'tis to ven<g ref="char:EOLhyphen"/>ture upon any ſin, any uncleanneſs, on this ground, becauſe God has mercy to forgive it, 'tis to multiply ſins, becauſe God can multiply pardons, 'tis to ſin that grace may abound; And <hi>ſhall wee ſin that grace may abound,</hi> ſaid holy <hi>Paul?</hi> what, wee Chriſtians? wee on whom Chriſts Love has laid all obligati<g ref="char:EOLhyphen"/>ons? wee who ſin'd immenſely, be<g ref="char:EOLhyphen"/>fore wee knew him, and yet found mercy with him? O God forbid; <hi>How can wee that are dead to ſinne</hi> 
+                     <note place="margin">Rom. 6. 1, 2</note> doe ſo, wee cannot, wee cannot. <hi>q. d.</hi> that were unreaſonable, and to an ingenuous heart impoſſible. To reaſon, from grace to ſin, is the Lo<g ref="char:EOLhyphen"/>gick of the old Serpent, Satan. To apply that ſaying in <hi>John, That if</hi> 
+                     <note place="margin">1 Joh. 2. 1.</note>
+                     <pb n="32" facs="tcp:110169:28"/>
+                     <hi>any man ſinne, wee have an Advocate with the Father, who's a propitiation for ſins:</hi> to apply it, I ſay before the ſin is committed, and to ven<g ref="char:EOLhyphen"/>ture on ſin upon that very ground is exceeding dangerous; but after, to the remorſefull exceeding cor<g ref="char:EOLhyphen"/>diall. 'Tis a certain Maxime, that to have a pardoning Maſter, and pittying Majeſtie, is a comfort un<g ref="char:EOLhyphen"/>der the fruits of ſin, affliction; but no incouragement to the works of ſin, rebellion. The ſpot of pre<g ref="char:EOLhyphen"/>ſumptuous ſin is not the Spouſes.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. 4.</head>
+                  <p n="3">3. THe ſpot of the reigning ſin is not the Spouſes; <hi>Sinne ſhall not have dominion over you; for</hi> 
+                     <note place="margin">Rom. 6. 14.</note> 
+                     <hi>you are not under the Law,</hi> viz. ſins Law, <hi>but under grace,</hi> viz. the Lawes and Commands of grace, neither ſins power of damning, nor domi<g ref="char:EOLhyphen"/>neering <note place="margin">
+                        <hi>Deſtituitur pec<g ref="char:EOLhyphen"/>catum potentia damnandi &amp; dominandi,</hi> as they ſay, <hi>Manet pecca<g ref="char:EOLhyphen"/>tum, dejectum quidem; ſed non ejectum, evul<g ref="char:EOLhyphen"/>ſum non expul<g ref="char:EOLhyphen"/>ſum tamen.</hi> Bern. Pſal. 19. 10.</note> ha's its throne there; rebell it may, but reigne it do's not, its in
+<pb n="33" facs="tcp:110169:28"/>
+them, but rules not over them, they know no Lord but King Jeſus; ſin is not in them King, but tyrant. Sin has a ſtrong heart, is put to death with much a doe: yet done it is in them, and to them; its kept under though not caſt out, irradicated though not wholly expeld. It fares with ſinne, in Saints, as with thoſe Beaſts in <hi>Daniel,</hi> their dominion was taken from them; yet their <note place="margin">Dan. 7. 12.</note> lives were prolong'd for a ſeaſon and a time: ſo God may ſuffer ſins of Saints that have loſt their do<g ref="char:EOLhyphen"/>minion &amp; domina<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion to ſurvive he may let thee fall, <hi>to try whats in thy heart.</hi> q. d. that thou mayſt try and know it, and thy want of his power to ſubdue it; yet 'tis but for a ſeaſon and a time, and then the King of Glory will come, and fill all the corners of thy heart with light, life, &amp; liberty. Sweet Lord! ſhall thy Kingdome come into our hearts? ſhall thy will be done in our vile hearts, as 'tis done in thy pure heavens? What in ours, O
+<pb n="34" facs="tcp:110169:29"/>
+Spouſe, onely thy Husband ha's his <hi>dominium forte,</hi> mightie rule, his ſtrong Lordſhip, his Empire in thy ſoule, <hi>ſed ſuave,</hi> but 'tis a ſweet one, bleſſed art thou under his principalitie. <hi>Germanicus</hi> reigned in the <hi>Romans</hi> hearts, <hi>Tiberius</hi> but in the Provinces; ſo 'tis with Saints, ſin may reigne in their members, externalls, but Chriſt reignes in their mindes, internalls; ſinne in Saints is dejected from its regen<g ref="char:EOLhyphen"/>cie, though not ejected from its inherencie: whilſt they are here, the ſpot of the reigning ſin is not the Spouſes.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. 5.</head>
+                  <p n="4">4. SHee do's not ſinne longing, wiſhing there were no Law forbidding ſin, no God to puniſh ſin; the fooles heart ſayes there's no God. <hi>i. e.</hi> wiſhes it were ſo, that he might ſin unſmitten; ma<g ref="char:EOLhyphen"/>ſterleſſe Monſters ſend Meſſages
+<pb n="35" facs="tcp:110169:29"/>
+after Chriſt, ſaying, <hi>Wee will not that this man reigne over us,</hi> long<g ref="char:EOLhyphen"/>ing to live without Law, lawleſſe. Some have as many Lords as luſts, <hi>aut faciendum aut patiendum,</hi> ſuch as will not be his throne, muſt be his footſtoole; its a priſon to ſinners to be held in by Law, but 'tis a pa<g ref="char:EOLhyphen"/>radiſe to Saints: a good man is thankfull for every curbe of cor<g ref="char:EOLhyphen"/>ruption, <hi>the ſmitings of the righteous</hi> 
+                     <note place="margin">Pſal. 141. 5.</note> 
+                     <hi>are kindneſſes to him, an excellent oile;</hi> he dreads <hi>Ephraims</hi> caſe, to be let alone, ſinning; <hi>Lex, Lux,</hi> ſaid <hi>Solomon</hi> the wiſe, the Law's a light, and Lampe, for manifeſtation of <note place="margin">Pro. 6. 23.</note> ſin, and manuduction of the ſoule to her Saviour; Saints ſinne not, wiſhing there were no Law forbid<g ref="char:EOLhyphen"/>ding the evill thereof, yea, &amp; which is more, they bleſſe God when croſ<g ref="char:EOLhyphen"/>ſed in an evill courſe; <hi>Bleſſed be the Lord God of Iſrael which ſent thee this day to meet mee, and bleſſed be thy ad<g ref="char:EOLhyphen"/>vice, and bleſſed be thou which haſt kept mee this day from coming to ſhed bloud, &amp; from avenging my ſelfe with</hi>
+                     <pb n="36" facs="tcp:110169:30"/>
+                     <hi>mine owne hand; for indeed the Lord God lives which has kept mee from hurting of thee,</hi> ſaid <hi>David</hi> to <hi>Abi<g ref="char:EOLhyphen"/>gail,</hi> he bleſſes God, the advice, the woman, every thing that gave curb to his corruptions; gracious ſpi<g ref="char:EOLhyphen"/>rits thinke it a mercy to have the courſe of ſinne ſtopped, love the meanes that effects it; to be given up to hearts luſts, is the greateſt plague of all; they long not that there were no Law, but love it; <hi>O how I love thy Law,</hi> ſaid the ſenſible <note place="margin">Pſal. 119. 97.</note> Prophet, <hi>'tis my meditation all the day, and I delight in the Law after the</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om. 7. 22.</note> 
+                     <hi>inner man,</hi> ſaid holy <hi>Paul;</hi> this is not the ſpot of Chriſts Spouſe. A gra<g ref="char:EOLhyphen"/>cious Spirit do's with great attenti<g ref="char:EOLhyphen"/>on heare this Law-make<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as thoſe in <hi>Luke,</hi> who were ſo <hi>attentive</hi> to <note place="margin">Luke 19. 48.</note> his doctrine, that the <hi>Rulers found not what to doe;</hi> the people <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>anged</hi> on him, ſaith the Greeke word; <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> all Chriſtians hange on Chriſts lips, as the Bee doth on the flower, the babe on the breſt, and the little bird on the bill of her dam, that
+<pb n="37" facs="tcp:110169:30"/>
+they may <hi>receive the Law from his</hi> 
+                     <note place="margin">Mal. 2. 7.</note> 
+                     <hi>mouth.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. 6.</head>
+                  <p n="5">5. THe ſpot of a beloved ſin is not the ſpouſes; her ſin is by her loathed, but not beloved; <hi>the evill I doe, I hate,</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle; ſhee has as bad conceits of ſin <note place="margin">Rom. 7. 15.</note> as ever ſhe had, though once plea<g ref="char:EOLhyphen"/>ſed in the act, her affections are crucifi'd to corruption, ſo is cor<g ref="char:EOLhyphen"/>ruption to them, they are dead to each other; ſin in Saints is, 1. Dead judicially, dead in ſentence, they adjudge it to death, reſolve it ſhall die; they ſin not with an eſteeme of ſin, their judgement's againſt it, they have laid hatred to the roote of ſin, which will be the death out. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Tis in them <hi>Civiliter mortuus,</hi> ci<g ref="char:EOLhyphen"/>villy dead; a man is dead, ſaith the Civill Law, when hee's in ſubjecti<g ref="char:EOLhyphen"/>on to another, is not acted and ani<g ref="char:EOLhyphen"/>mated by the power of his owne
+<pb n="38" facs="tcp:110169:31"/>
+will, but by the will of him that rules over him; ſo here, ſinne in Saints ha's not its own will, is not its own Maſter, is in ſubjection to them, becauſe their love thereof, its life, is withdrawne, better be ſtowed, laid out. 3. Sin in them as loathed, not loved, is naturally dead<hi>:</hi> things are naturally dead two wayes, <hi>inchoate, conſummate;</hi> in<g ref="char:EOLhyphen"/>choate, as when a tree is ſmote at the roore with an Axe, which is an omen it will wither, die, be fruit<g ref="char:EOLhyphen"/>leſſe, for future; though for preſent it have leaves and fruit upon it: hence 'tis ſaid to be dead, becauſe it has received its deadly blow<hi>:</hi> ſo a man is ſaid to be a dead man, when he has received a deadly wound, though hee may ſtirre, ſtruggle, ſtrive, and live a while after, to doe ſome hurt to him that did the deed; ſo a man alive in Chriſt, by vertue of his union with him, has a deadly blow given to the roote of his ſin, not onely in the judge<g ref="char:EOLhyphen"/>ment, having loſt its repute there,
+<pb n="39" facs="tcp:110169:31"/>
+but in the affections alſo; it ſhall never any more <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ooſt and roote there, never recover its ſtrength againe; and though it have a little life for a while, and may be injuri<g ref="char:EOLhyphen"/>ous to the ſubject where 'tis, yet cannot laſt long and bring forth as before, but withers, growes leſſe and leſſe, till quite exhauſted, waſt<g ref="char:EOLhyphen"/>ed, notwithſtanding its ſhew of leaves. 2. A ſin not beloved has a death conſummate, and it is ſo dead by this ſigne, <hi>viz.</hi> when it brings not forth in its ſeaſon. <hi>i. e.</hi> when advantages and opportuni<g ref="char:EOLhyphen"/>ties of ſinning, occur, accord, agree, and come together. In winter, Trees and Plants ſeeme as dead, but if in the ſpring, wee ſee neither <note place="margin">Doct. <hi>Sib<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </note> fruit nor leaves, wee then ſay they'r dead indeed; ſo when a Chriſtian has an advantage, an opportunitie to fall into ſin, may doe it, yet not work himſelfe into outward blame and ſhame, and ſin do's not then beare fruit and bring forth in that fit ſeaſon, 'tis dead indeed; for
+<pb n="40" facs="tcp:110169:32"/>
+what the ſeaſon of the ſpring is to trees and plants, the ſame, or the like, is an occaſion of ſinning unto ſin. <hi>Joſephs</hi> caſe, and his carriage <note place="margin">Gen. 39. 7. to 13.</note> in that caſe, cleeres this well; hee had an advantage, an opportunity, all advantages, and a fit ſeaſon to ſin in, a wanton Miſtris, who woed him often, ſaying, <hi>Lie with mee,</hi> a continuation of her ſuit, ſhee did it <hi>day by day,</hi> her actuall aſſault, <hi>ſhee caught him by his garment,</hi> would have no nay, a place of privacie, <hi>there was none of the men of the Houſe within,</hi> no likelihood of accruing ſhame, or blame, in publicke; and himſelfe an high Officer, a man of credit, able to have cruſhed a ru<g ref="char:EOLhyphen"/>mor and bruit in the birth; yet ſin in him was then dead, it could not live being loath'd; <hi>Hee hearkened not unto her to lie by her, or to be with her,</hi> ſaith the Text; he ſhunned and hated both the ſin, and the occaſi<g ref="char:EOLhyphen"/>on, <note place="margin">Vitanda eſt gla<g ref="char:EOLhyphen"/>cies, ſi nolis Cadere.</note> with the appearances thereof, would not lie by her, would not be with her; a good patterne of pietie
+<pb n="41" facs="tcp:110169:32"/>
+for others: hee ſhunn'd the ſin as croſſe to God, not men; <hi>How can I doe this great wickedneſſe, and ſin againſt God?</hi> yet then in, that caſe, his luſt was life-leſſe, brought not forth; Chriſts Spouſe ſins not with a love of ſin, the evill ſhee do's, ſhee hates; <hi>There's no ſpot in thee.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. 7.</head>
+                  <p n="6">6. THey ſin not with the whole man, their fall is not <hi>Toti a toto in totum,</hi> they ſin not with a cleare freedom and full conſent of the will, there's ſtill ſome reluc<g ref="char:EOLhyphen"/>tance, giving out, drawing back of ſome of the inward powers, they ſin not with all their ſtrength, gree<g ref="char:EOLhyphen"/>dily, with both their hands; not <hi>earneſtly,</hi> as the Prophet ſpeakes; <note place="margin">Micah 7. 3.</note> their conflicts with ſin, when fal<g ref="char:EOLhyphen"/>ling thereinto, are an atteſtation of this: the minde, or ſoule, we ſay, is the man; but the minde ſins not,
+<pb n="42" facs="tcp:110169:33"/>
+                     <hi>With my minde I ſerve Chriſt, and</hi> 
+                     <note place="margin">Rom. 7. 5. 19, 20.</note> 
+                     <hi>the evill I would not, that doe I,</hi> ſaith the Apoſtle, they ſin againſt their wills, cannot will ſin; they nill and null, in the ſtrength of Chriſt, all ſinfull thoughts, words, and works. And <hi>if I doe that I would not, 'tis no</hi> 
+                     <note place="margin">Ver. 20.</note> 
+                     <hi>more I: Quaſi dicat,</hi> there was a time, when I willed what I acted, and did what I would and could in ſin; but now I am not the man, I am not I, 'tis no more I that ſin, ſin is in mee, but againſt my will, I cannot will to ſin, chooſe to ſin might I gain a world for ſo doing. Chriſts Spouſe ſins not, <hi>viz.</hi> not with cleare freedom, and full con<g ref="char:EOLhyphen"/>ſent of will. Hence is ſaid to be ſpotleſſe, not to ſin: for as to will <note place="margin">Note.</note> ſin, is to commit ſin in the account of Juſtice; ſo to nill ſin, is not to commit ſin in the account, of mer<g ref="char:EOLhyphen"/>cy. Man in the firſt <hi>Adam,</hi> when he <note place="margin">Matth. 5. 28.</note> ſtood in the glory of his beſt per<g ref="char:EOLhyphen"/>fection, the image of the inviſible God, made out but a mutable will, a will he had to ſtand or fall which
+<pb n="43" facs="tcp:110169:33"/>
+hee pleaſed; and hence did he will his fall freely; but a man in the ſecond <hi>Adam</hi> ha's a better ſtand<g ref="char:EOLhyphen"/>ing, greater ſtrength, and a better and more accompliſht will; hence no man in Chriſt can will his fall, will wandering from God, and a wavering heart, in the ſence before aſſerted, <hi>viz.</hi> with the wills cleare freedom and full conſent, ſo that <note place="margin">
+                        <hi>Capell Tempt. pag.</hi> 36.</note> God imputes no more to us, then is approved and allowed by us.</p>
+                  <p>You have now ſeene what ſpots the Saints have not, what ſins they commit not: But have Saints no ſins? do's Saint-ſhip and Son-ſhip make ſinleſſe? No; <hi>If wee ſay wee have no ſinne, wee deceive our ſelves,</hi> 
+                     <note place="margin">1 Joh. 1. 8.</note> 
+                     <hi>and the truth's not in us,</hi> ſaith <hi>John;</hi> hee that, <hi>Donatus-like,</hi> ſayes, I have no ſin for Chriſt to cleanſe mee <note place="margin">Non habeo Do<g ref="char:EOLhyphen"/>mine quod ig<g ref="char:EOLhyphen"/>noſcas.</note> from, ha's no truth in him, is like to his father, who lyed <hi>ab origine,</hi> from the beginning.</p>
+                  <p>1. Chriſts pureſt Spouſe, has the tincture of ſin in her ſelfe, it has befallen Chriſtians, in this caſe, as it
+<pb n="44" facs="tcp:110169:34"/>
+fares with a man who has fallen in<g ref="char:EOLhyphen"/>to a ditch, notwithſtanding he has bin waſhed from the mud, yet may wee ſmell hee has been defiled: Chriſts time of ſuffering was the Diſciples time of ſinning.</p>
+                  <p>But ſecondly, a Chriſtian as hee injoyes himſelfe in Chriſt, and ſo far forth as hee lives in Chriſt, hee's ſin-leſſe, and his ſin is not im<g ref="char:EOLhyphen"/>puted to him, hee's all faire, has no ſpot in him.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. 3.</head>
+               <div n="1" type="section">
+                  <head>SECT. 1.</head>
+                  <p>
+                     <hi>Arguments are theſe;</hi>
+                  </p>
+                  <p n="1">1. EVery man is, and every man do's, in Goſpel account; that which he is moſt active in; but a Spouſe of Chriſt is moſt active in good, leaſt of all active in evill, therefore ſaid not to ſinne. <hi>David</hi> had many failings, yet was he moſt in the practice of good, and leaſt in the practice of evill; his heart, as well as hand, was more in the wayes
+<pb n="45" facs="tcp:110169:34"/>
+of grace, than in thoſe of ſin; for hee ſinned onely by accident, if I miſtake not; minde that moſt ſin<g ref="char:EOLhyphen"/>gular <hi>Encomium</hi> that's given him; hee <hi>was a man after Gods own heart; hee did that which was right in the ſight of the Lord, all the dayes of his life, and turned not aſide from any thing the Lord commanded him, ſave onely in the matter of Uriah the Hit<g ref="char:EOLhyphen"/>tite.</hi> 
+                     <note place="margin">1 Kings 15.5.</note> There's but one ſin mentio<g ref="char:EOLhyphen"/>ned, and that one is not, becauſe pardoned; hee was eyed, deemed, and prized according unto that he was moſt active in; ſo that in the account of mercy he had no ſpot in him: a gracious heart is active, moſt active in good, but paſſive, moſt paſſive in evill; hee ſuffers, when hee ſins, then moſt of all; e<g ref="char:EOLhyphen"/>vills of ſuffering pinch him not ſo much, as evills of ſinning<g ref="char:punc">▪</g> the one being but as a ſcar in the fleſh, the other a wound in the heart, for ſuch ſoules are moſt wounded in Chriſts wounds; as the loyall wife is moſt wounded in the wounds of
+<pb n="46" facs="tcp:110169:35"/>
+her husband. Let complaints of Saints come forth, and they'l give evidence to this truth; many are judgement-ſad, but few ſin-ſad; Chriſts ſpouſe is one of thoſe few, ſinne is more her burthen then is ſuffering, ſhees a ſenſible ſin-ſick ſoule. On the contrary, a grace<g ref="char:EOLhyphen"/>leſſe heart is paſſive, moſt paſſive, onely in good; ſuffers moſt, whilſt it do's well, and eſteems it not ſo much peace, as perplexity to walke with God, is active in goodneſſe by accident, moſt active in evill, therefore a ſinner, no Saint by na<g ref="char:EOLhyphen"/>ture or name, as Chriſt wills for one. Chriſtians, conſider, tis not your ſtarting into duties, your ex<g ref="char:EOLhyphen"/>act performance of them, or your faſtening on goodneſſe onely by fits, that addes a beautie, a comeli<g ref="char:EOLhyphen"/>neſſe to you, but tis that the hearts moſt in, that the hands moſt in, that your ſtrength, all your ſtre<g ref="char:cmbAbbrStroke">̄</g>gth is laid out upon, which ſhews what you are, in Goſpel account: mark, O man, the bent of thy minde, the<g ref="char:punc">▪</g>
+                     <pb n="47" facs="tcp:110169:35"/>
+might of thy motions, thy con<g ref="char:EOLhyphen"/>ſtancy of continuation in the ſer<g ref="char:EOLhyphen"/>vice of Chriſt, that thou mayſt be all fair, ſpotleſſe by imputation.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>ARGUMENT 2. SECT. 2.</head>
+                  <p>EVery man is, and do's, in Goſ<g ref="char:EOLhyphen"/>pell account, what he ſincerely endeavours to do, but a Spouſe do's not endeavour to ſin, do's not put forth her might in ſin, do's not ſtrenuouſly perpetrate ſin: Hence is ſaid, not to ſin; to be void of the ſpot of ſin; to have no ſin. Holy men, in Scripture, are ſaid to have humbled themſelves, and to have purged themſelves, though the Lord knows the crea<g ref="char:EOLhyphen"/>tures inſufficiency in ſuch reſpects, and does the work himſelfe; yet becauſe they ſincerely endeavour<g ref="char:EOLhyphen"/>ed to do it in his ſtrength, they are ſaid, in the account of mercy, to have performed it; and indeed the Scriptures are no way want<g ref="char:EOLhyphen"/>ing
+<pb n="48" facs="tcp:110169:36"/>
+in producing preſidents for proof; <hi>Manaſſeh, Joſiah, Hezeki<g ref="char:EOLhyphen"/>ah,</hi> 
+                     <note place="margin">2 Chron. 33. 12. &amp; 32.26. &amp; 34.27. Pſal. 35. 13. 1 Joh. 3.3.</note> 
+                     <hi>David,</hi> and many others, are ſaid to have humbled themſelves; and he that <hi>ha's that hope, purges him<g ref="char:EOLhyphen"/>ſelf as God is pure,</hi> ſaith <hi>John.</hi>
+                  </p>
+                  <p>'Tis the good will of God, to crown imperfect actions of Saints with approbation, acceptation, to take a ſincere will, and willing minde, for the deed it ſelf: every man is, in the account of God, what he heartily endeavours to be, <note place="margin">2 Cor. 8. 12.</note> in good or evil; but a godly mans heart is not in ſin, not ſet to ſin; he do's not preſſe on that way, but he preſſeth on to the way of eſcape from it, even the <hi>Lamb of God that takes away ſin; I Preſſe towards the</hi> 
+                     <note place="margin">Phil. 3. 14.</note> 
+                     <hi>marke for the price of the high calling of God in Chriſt Jeſus,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, I per<g ref="char:EOLhyphen"/>ſecute the marke; its the ſame word that's uſed in the <hi>Acts,</hi> where <hi>Paul</hi> ſpeaks to <hi>Agrippa,</hi> that he compeld men to blaſpheme, and <note place="margin">Acts 26.11.</note> was <hi>exceedingly mad againſt Saints; did perſecute them into ſtrange Cities.</hi>
+                     <pb n="49" facs="tcp:110169:36"/>
+                     <hi>Paul</hi> reſolv'd, as he had been the chief of ſinners, now to ſtrive, if poſſible, to be the chief of Saints; now to excell in grace, as much, yea, much more, then before he had exceeded in ſin; hence that ſaying in the <hi>Corinthians</hi> imports <note place="margin">2 Cor. 5. 12, 13. <hi>Paulus<g ref="char:punc">▪</g> in om<g ref="char:EOLhyphen"/>nia praeceps, nil actum ore<g ref="char:EOLhyphen"/>dens cum quid<g ref="char:punc">▪</g> ſupereſſet<g ref="char:punc">▪</g> a<g ref="char:EOLhyphen"/>gendum de Cae<g ref="char:EOLhyphen"/>ſare. Lucan</hi> 2 <hi>Phar.</hi>
+                     </note> as much; <hi>Whether we be beſides our ſelves, it is to God, or whether we be ſober, it is for your ſakes; for the love of God conſtrains us. Paul</hi> ſets be<g ref="char:EOLhyphen"/>fore them the coming of Chriſt, and their appearance before his judgement ſeat, with greateſt in<g ref="char:EOLhyphen"/>tention of Spirit, and contention of ſpeech. 'Tis ſaid of <hi>Origen,</hi> that he was ever earneſt, but never more then, when he ſpake of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>ARGUMENT 3. SECT. 3.</head>
+                  <p>THat which gives the deno<g ref="char:EOLhyphen"/>mination to perſons, or things, is the predominant quali<g ref="char:EOLhyphen"/>ty in thoſe perſons, and in thoſe
+<pb n="50" facs="tcp:110169:37"/>
+things, but grace, in the gracious, is the predominant quality, though there be other ingredients in the compound; hence they'r called Saints, not ſinners; and are ey'd in him that ſanctifies, as ſinleſſe; no action denominates the effici<g ref="char:EOLhyphen"/>ent, but predominant qualities give appellation to the ſubject; <note place="margin">
+                        <g ref="char:V">Ʋ</g>na actio non denominat.</note> particular actions prove not the ſoundneſſe or unſoundneſſe of the affections; for a good man may do an evill action, and an evill man a good action; but predominant qualities are the faireſt and trueſt Characters of what our minds be, and ſuch as our minds, and their objects be even ſuch are we; grace rules in Saints, ſin in ſinners: on the contrary, the predominant quality in ſinners is ſin, hence they have the name Sinners; 'twas <hi>Pauls</hi> comfort, that his minde was <hi>Chriſts</hi> ſervant, though his fleſh was the ſervant of ſin, his minde had the maſtery, was predominant; tis here, as in things naturall; water's
+<pb n="51" facs="tcp:110169:37"/>
+our inſtance, which conſiſts of ma<g ref="char:EOLhyphen"/>ny elements; but becauſe moiſt<g ref="char:EOLhyphen"/>nes and coldnes are the principall predominant qualities in the com<g ref="char:EOLhyphen"/>pound, thence it ha's its denomi<g ref="char:EOLhyphen"/>nation, <note place="margin">1 Kin. 15. 14.</note> is called water. <hi>Aſa remo<g ref="char:EOLhyphen"/>ved not the high places,</hi> did evill in many things, <hi>nevertheleſſe his heart was perfect with the Lord all his days;</hi> uprightneſſe and integrity of heart were predominant in his heart, therefore twas a perfect heart, and ſo called, mercy was the cauſe, would it ſhould be ſo.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>ARCUM. 4. SECT. 4</head>
+                  <p>EVery man is, and every man do's, in the account of the Goſpel, that which he is, and do's, when hee's moſt himſelf, but a gra<g ref="char:EOLhyphen"/>cious man, when he is himſelf leaſt of all, when hee's moſt himſelf, ſelf<g ref="char:EOLhyphen"/>renued, can he fall into ſin? hence may be ſaid not to ſin. Man, when he ſins, is not <hi>apud ſe,</hi> in his right
+<pb n="52" facs="tcp:110169:38"/>
+minde, but doe's <hi>ex ſe ire,</hi> go out of himſelf; and therefore repent<g ref="char:EOLhyphen"/>ance, which is the change of the minde and man, by which he comes from a depraved to a renued ſelf, is expreſſed by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a word that imports recovering of wits, loſt wits, and is of ſome tranſlated, af<g ref="char:EOLhyphen"/>ter-wiſedome; the parable of the loſt ſon conduces to the cleering <note place="margin">Luk. 15. 17. A man in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uch a pang <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f paſſion, is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>id by an un<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſuall phraſe, <hi>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on eſſe apud</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, and as 't <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſen's, <hi>ad ſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>diiſſe,</hi> to re<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rn to him<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lfe.</note> of this; he craves his portion, takes it, leaves his home, and fathers boſome, travels, goes far, as farre as he could, ſpends his ſubſtance on his luſts, living looſely; but want makes him a ſer<g ref="char:EOLhyphen"/>vant, and brings him to live on husks, could he get them; but all this while, he was not himſelf: but having received a ſence of ſin, next a ſight of the meanes of eſcape from it, which was Gods way of ſtriving to bring life againe into his dead child, he breathes after home, not being judged, according to what he was before, but accord<g ref="char:EOLhyphen"/>ing to what he was, when he came
+<pb n="53" facs="tcp:110169:38"/>
+to himſelf, <hi>ver.</hi> 17. which appears by the ſequel, from the 29. <hi>ver.</hi> to the end of the Chapter; for when his brother accuſed him to his fa<g ref="char:EOLhyphen"/>ther, for what he had been and done, no notice is taken of ſuch things, nor anſwer given as was ex<g ref="char:EOLhyphen"/>pected, but words of grace and fa<g ref="char:EOLhyphen"/>vour are in the reply; <hi>Thy brother that was dead, is now alive, he that was loſt, is now found; q. d.</hi> Hee's now another manner of man; there's a truth in what thou ſayſt, and I know it very well; but he was mad when he did thoſe things, was not himſelf, was dead; but the caſe is altered: tell me not what he was, and did, but what he now is, and doth; thou wouldſt have me kick, and kill, but Ile kiſſe; tis my live child, my found child, hee's now come to himſelf<hi>:</hi> there's a time when God doe's, and will make it out to his children, that their for<g ref="char:EOLhyphen"/>mer ſins ſhall not be reviewed; tis that they are, and ſhal be, which his eye is upon, his heart moſt in: Is
+<pb n="54" facs="tcp:110169:39"/>
+not God a good Father? hee's all bowels, <hi>very pitifull. and of tender</hi> 
+                     <note place="margin">Jam. 5.11. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Jer. 31.34.</note> 
+                     <hi>mercy;</hi> one of many commiſerati<g ref="char:EOLhyphen"/>ons ſaith the Greek word; <hi>Ile for<g ref="char:EOLhyphen"/>give their iniquities, and will re<g ref="char:EOLhyphen"/>member their ſins no more.</hi> God do's <note place="margin">Hanc veniam <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>etimuſque da<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſque vioiſ<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>im.</note> forget as well as forgive, and for<g ref="char:EOLhyphen"/>get all he forgives. Chriſtians, this God do's for you, what do you for each other? we aske pardon, let's give it.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>ARGUM. 5. SECT. 5.</head>
+                  <p>EVery man is, and do's, in Goſ<g ref="char:EOLhyphen"/>pel account, that which he is, &amp; do's in ſins conſummation, in the finiſhing of ſin; but the eſpouſed of Chriſt do's not conſummate <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m. 1. 15. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> ſin, finiſh ſin, therefore are they ſaid not to ſin, <hi>Sin when't is finiſh<g ref="char:EOLhyphen"/>ed brings forth death, viz.</hi> When full, perfect, compleat, through<g ref="char:EOLhyphen"/>ly and exactly made an end of, as the word is; but no ſins of Saints do thus terminate, are thus mor<g ref="char:EOLhyphen"/>tall,
+<pb n="55" facs="tcp:110169:39"/>
+can thus kill them; ſins of Saints were crucified in Chriſts crucifixion, can never ſo revive in them againe, as to bring this death upon them. They do not crown ſin, the end crownes and proves the action good or evill, <hi>Exitus acta probat,</hi> and end imports <note place="margin">Finis coron<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> opus.</note> perfection, <hi>i. e.</hi> an exact perfor<g ref="char:EOLhyphen"/>mance of the action; ſins, in Saints, are broken, uncocted, evils not di<g ref="char:EOLhyphen"/>geſted into full groath, and full ſtrength; hence are they ſaid to be mortified, waſhed, clenſed: take an inſtance, Paſſion flowing thence <note place="margin">1 Cor. 6.11.</note> where the grace of Patience is not whole but broken, wounded and maimed, not perfect paſſion, tis not commander, but commanded; not in them, as in others, they have but their pangs and fits of ſuch fu<g ref="char:EOLhyphen"/>ries, do but ſtart and ſtartle into ſin, tis not long lived in them, and that little dying breath it ha's, is as ſoon expir'd as inſpir'd, as ſoon out as in, they'r not conſtant in ſin: <hi>ſed contra,</hi> ſome do ſome<g ref="char:EOLhyphen"/>thing
+<pb n="56" facs="tcp:110169:40"/>
+about ſin, little againſt ſin. <note place="margin">
+                        <hi>Peccata ſaepe radiuntur, ſed non irradican<g ref="char:EOLhyphen"/>tur</hi> is moſt true of ſome.</note> Theſe are not ſuch; ſin in them has its deadly wound, the axe is laid to the root on't, ruin'd it is, or will be.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>ARGUM. 6, SECT. 6.</head>
+                  <p>EVery gracious man, is in the accompt of God, and his Goſ<g ref="char:EOLhyphen"/>pell, that which he ſhall be in the ſtate of perfection, hereafter; but men of grace, when men of glory, in perfect ſtate, ſhall be ſpotleſſe, have no more power to ſpot themſelves; hence are they dee<g ref="char:EOLhyphen"/>med ſpotleſſe here, by imputation, I meane. God, faith the Apoſtle, <hi>cals things which are not as though they were:</hi> tis granted, hee'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not that he ſhall be, in fulneſſe; but hee's <note place="margin">Rom. 4.17. <hi>Non quoad to<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>um, ſed quoad <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dus.</hi> 
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> John 3.2.</note> that he ſhall be, in truth; Chriſt minds not ſo much what we are, as what we ſhall be; <hi>We are now ſons,</hi> ſaith <hi>John,</hi> and children have their <hi>ſpots,</hi> as the Scriptures ſpeak,
+<pb n="57" facs="tcp:110169:40"/>
+                     <hi>but it appears not what we ſhall be, for we ſhall be like him,</hi> and <hi>as Chriſt is,</hi> 
+                     <note place="margin">1 Joh. 4. 17.</note> 
+                     <hi>ſo are we in this world;</hi> he minds not ſo much, what image we have marred, as what of God unto us hee's made; hee's made holy, and holineſſe to us, comely, and come<g ref="char:EOLhyphen"/>lineſſe to us; hee's ſaid to forgive, &amp; forget ſin, not to minde, to re<g ref="char:EOLhyphen"/>member it no more; he has a great<g ref="char:EOLhyphen"/>er memory of his peoples vertues, then vices; thinks more on their future then preſent ſtate.</p>
+                  <p>The firſt borne heire of a rich man, is in the account of his father, wealthy, ſay he has nothing but neceſſaries; becauſe, Though he has little in poſſeſſion, he has much in reverſion, if he lives too't. So here, a Chriſtians comelineſſe is not ſo much in poſſeſſion, as in re<g ref="char:EOLhyphen"/>verſion; not ſo much in his owne, as in Chriſts own hands; yea, the life of his luſtre and grace, though in his owne poſſeſſion, yet the meanes of preſervation is not within, but without him, in Chriſt
+<pb n="58" facs="tcp:110169:41"/>
+his head, from which well of Life he draws all his waters that are li<g ref="char:EOLhyphen"/>ving in himſelfe: dying things ab<g ref="char:EOLhyphen"/>ſent and far from us, are made preſent and nigh to us by imputa<g ref="char:EOLhyphen"/>tion, and <hi>fidei mendica manu;</hi> pro<g ref="char:EOLhyphen"/>miſes afar off, were ſeen and em<g ref="char:EOLhyphen"/>braced <note place="margin">Heb. 11.3.</note> by <hi>Abraham,</hi> where the Greek has it, he ſaluted them, kiſ<g ref="char:EOLhyphen"/>ſed <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>ab a <gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> &amp;</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> Chriſt in the promiſe, and was interchangeably kiſſed of him, when Chriſt was then afar off and not incarnate; yet were they drawne together by mutuall neer<g ref="char:EOLhyphen"/>neſſe, and dearneſſe of love, as the word in the originall, imports; Chriſt conſiders, accounts, and concludes them, as under the en<g ref="char:EOLhyphen"/>joyment of their diſtant, and ab<g ref="char:EOLhyphen"/>ſent as well as preſent beauty, and purity. Sweet Chriſt can kiſſe them, as eyeing them in their comelines, which is to come; when it ſhall be their glory, to be loſt in his glory, and their throne, that he has his throne, and their greateſt joy, to live with him the joy-ma<g ref="char:EOLhyphen"/>ker;
+<pb n="59" facs="tcp:110169:41"/>
+ſuch heads are deſtinated un<g ref="char:EOLhyphen"/>to the Diadem: you have ſeen in <note place="margin">Tertul.</note> what ſence Saints are ſinleſſe, in what ſence not; the Lord make theſe things advantage to you, godly gaine.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4.</head>
+               <div n="1" type="section">
+                  <head>SECT. 1.</head>
+                  <p n="1">1. WAtch thy way-ward heart that thou makeſt not God a lyer; every ſin is a lye, tis cald in Scripture a <hi>lying vanity,</hi> 
+                     <note place="margin">Jonah 2.8.</note> and for a man to obſerve it, is to <hi>forſake his owne mercies.</hi> Saints ſin<g ref="char:EOLhyphen"/>ning give God the lye; Infidelity is a lye, and gives God the lye, and which is more, maketh God a ly<g ref="char:EOLhyphen"/>er; <hi>he that believeth not God ha's</hi> 
+                     <note place="margin">1 Joh. 5.10.</note> 
+                     <hi>made him a lyer; and he that ſai's he has not ſinned makes God a lyer:</hi> 
+                     <note place="margin">1 Joh. 1.10.</note> be not ſlow of heart to beleeve; do's Chriſt account thee <hi>all faire?</hi> make not thy ſelfe all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oule; do's he ſay thou art ſinleſſe? and wilt thou, canſt thou ſin ſenſleſly?</p>
+                  <p>
+                     <pb n="60" facs="tcp:110169:42"/>
+'Tis true, corruption, edged with a temptation, gets, as it were, the hill and the winde, and upon ſuch advantages too oft prevailes; we can ſtay no more from ſinning, then the heart from panting, &amp; the pulſe from beating; our lives we may feare, abound more with ſins then the firmament with ſtars, or the furnace with Sparks, which cauſed that ſaying, <hi>Libera me Do<g ref="char:EOLhyphen"/>mine a malo homine meipſo;</hi> Lord, free me from that evill man mine owne ſelfe: in our hearts our ſins are voluminous, in our lives, our errata's are in a ſence infinite; tis not falling into the water that drowns, but lying in it; ſo fal<g ref="char:EOLhyphen"/>ling into ſin ſinks not thy ſoule, but living in it; and although ſins of Saints are not in the account of God, becauſe pardoned, yet when <note place="margin">Trap.</note> they ſee the ſins of others, have they cauſe to ſay with the good Martyr, <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> Whether or why am not I ſuch? whether <note place="margin">
+                        <hi>M.</hi> Bradford.</note> or no ha's God cleanſed me, and
+<pb n="61" facs="tcp:110169:42"/>
+if ſo, why ha's God done this for me? What am I more then they, <note place="margin">
+                        <hi>Domine non ſum dignus quem tu dili<g ref="char:EOLhyphen"/>gas.</hi> Auguſtin.</note> that God ſhould thus love me, charge no ſin upon me? make not God a lyer, though thou canſt not eſcape ſin whilſt in the body, yet do not make ſin, make a trade of ſin, not art it, not ſin artificially, preſumptuouſly, delightfully, wil<g ref="char:EOLhyphen"/>lingly, with the whole man, induſt<g ref="char:EOLhyphen"/>riouſly, that were to damme up the way of donations divine.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. 2.</head>
+                  <p n="2">2. RUminate ſenſibly what this Lambe ſuffered to take a<g ref="char:EOLhyphen"/>way ſin, and make thee ſpotleſſe; he himſelfe <hi>was made ſin for us, who knew no ſin, nor did ſin, neither was gui<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e found in his mouth, and when he was reviled, he reviled not againe, when he ſuffered, he threatned not, who his own ſelf bear our ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, in his owne</hi> 
+                     <note place="margin">Cor. 2 5. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Pet. 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1, 22, 23.</note> 
+                     <hi>body on the tre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> ſaith the Scrip<g ref="char:EOLhyphen"/>ture, <hi>that we might be made the</hi>
+                     <pb n="62" facs="tcp:110169:43"/>
+                     <hi>righteouſneſse of God in him;</hi> he was a ſinner, not only by imputation, <note place="margin">Heb. 12.2. Luk. 23.5.11.</note> but by reputation, <hi>he was num<g ref="char:EOLhyphen"/>bred among the tranſgreſſors;</hi> he it is that did drink hell drie to the bottome, ha's left no hell behind for thee; He was ſlighted, <hi>ſet</hi> at <hi>nought</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> made no body, <hi>de<g ref="char:EOLhyphen"/>rided,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> they blew their noſes at him; he was <hi>railed on, buf<g ref="char:EOLhyphen"/>feted, ſcourged,</hi> had <hi>his agonies, his bloudy ſweating</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> clottie bloud iſſued through his fleſh and skin, in an aboundant meaſure, and that without any externall vio<g ref="char:EOLhyphen"/>lence, <note place="margin">Sanguinem congellatum quaſi extruſe<g ref="char:EOLhyphen"/>rit.</note> meerly by the force of his own ſaddeſt thoughts within him; was ſtrongly accuſed, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> with great intention of Spirit, and <note place="margin">Mark. 8. 12. <hi>Expletur, La<g ref="char:EOLhyphen"/>chrimis egeri<g ref="char:EOLhyphen"/>turque dolor.</hi> Phil. 2.7.</note> great contention of ſpeech; he <hi>ſighed</hi> deepely, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> had a ſtraightned heart, and <hi>made him<g ref="char:EOLhyphen"/>ſelfe of no reputation</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> did ex<g ref="char:EOLhyphen"/>hauſt, <note place="margin">Evacuavit ſe ex omni gloria &amp; aequalitate cum Patre, Zanch.</note> exanimate, evacuate, annihi<g ref="char:EOLhyphen"/>late, and empty himſelfe of his all, for a ſeaſon, he was <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp; <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> price, and counter-price for loſt
+<pb n="63" facs="tcp:110169:43"/>
+undone ſoules, and at laſt had his deceaſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> his exodus, his de<g ref="char:EOLhyphen"/>parture out of that <hi>Egypt</hi> and <hi>E<g ref="char:EOLhyphen"/>gyptian</hi> bondage; a coercive, co<g ref="char:EOLhyphen"/>gent <note place="margin">
+                        <hi>Ex omni ad ni<g ref="char:EOLhyphen"/>hil ſeipſum re<g ref="char:EOLhyphen"/>degit.</hi> Beza. 1 Tim. 2.13. Luk 9.31. Eſay 52.14.</note> conſideration, to cauſe com<g ref="char:EOLhyphen"/>pliance with Chriſt. O Saints! in <hi>Sion</hi> behold your King; Firſt, as weeping for, and over you; his face was foule with weeping, and <hi>his viſage marred more then any mans;</hi> yea, then any of the ſons of men: O what a ſweetneſſe of ſtrength attractive there is in the ſight of a <hi>Jeſus!</hi> as ſtanding and knocking at the hearts door, with a tear in his eye, crying, <hi>Open unto mee, even unto mee, my Siſter; I am thy Brother, not a ſtranger; and my locks are wet with the<g ref="char:punc">▪</g> dew and drops of the night:</hi> ſhal ſweet Chriſt <hi>put his hand to the hole of the door, and thy bowels not move for him? ſhall no drops of Myrrhe, ſweet ſmelling Myrrhe, fall from thy hands and fin<g ref="char:EOLhyphen"/>gers, when thou layeſt hold on the han<g ref="char:EOLhyphen"/>dles of the locke?</hi> Secondly, Look <note place="margin">Cant. 5.4.5.</note> wiſhly on <hi>Chriſt</hi> as bleeding; for, in
+<pb n="64" facs="tcp:110169:44"/>
+thee, in drawing thy ſoule, he drew till the bloud came, clottie bloud; <note place="margin">Luk. 22.44.</note> he then was begging ſtrength, to bear the rod for ſins, that were not his own; <hi>Meſsiah was cut off, but not for himſelf,</hi> ſaith <hi>Daniel;</hi> my ſins, and thy ſinnes, ſqueeſed the bloud out of his bleſſed ſides, hands, and feet, and pierced him in the moſt nervous, tender parts; ſuch foes were we to this good friend; yet <hi>Jeſus Chriſt</hi> is burnt up with love to poor ſinners, to make them rich Saints; and wilt thou caſt wa<g ref="char:EOLhyphen"/>ter on this fire, by reſiſtance? Canſt thou then? haſt thou bow<g ref="char:EOLhyphen"/>els of iron, and ſuckedſt a Tyger when thou waſt young? Thirdly, Caſt thine eye on Chriſt, as dying; on a crucified Chriſt, Chriſt on the Croſſe, now, even now ſtretch<g ref="char:EOLhyphen"/>ing out his arms, holding out his breaſt, opening his boſome, and heart, crying out, who will, who<g ref="char:EOLhyphen"/>ſoever will come, let him come and lodge in this heart of mine; <note place="margin">Iohn 7.37.</note> the ſower croſſe, was ſweet Chriſts
+<pb n="65" facs="tcp:110169:44"/>
+death-bed, there he made his laſt will, and which is more then other dying friends can doe, he dyed, drawing, pulling ſinners into his own heart<hi>:</hi> O ſaints, and ſinners! <note place="margin">
+                        <hi>M.</hi> Ruther<g ref="char:EOLhyphen"/>ford.</note> tis a moſt vile thing to meet dying Chriſt with diſdaine: Chriſt dying leap'd for joy, that by dying he could keep ſons alive. Now tell me, O my friend, when thou ſeeſt him ſet a full cup of wrath, death, and hell to his head, and ſeeſt him ſigh, ſing, and ſmile; for thy good; canſt thou break that cup of trem<g ref="char:EOLhyphen"/>bling on his fair face, and not have thy heart fettered with Chriſts ſil<g ref="char:EOLhyphen"/>ken love-cords, which are ſofter then oyle? ſure, his love applyed to thy heart heartily, will make thee ingenuous, free, thankful, re<g ref="char:EOLhyphen"/>ſpectfull. <hi>Solomons</hi> honey, and <hi>Sampſons</hi> Dalilah are ſweet drinks, that ſwell ſome, who are after glad to vomit them up againe, and are pained with ſickneſs at the remem<g ref="char:EOLhyphen"/>brance of them; but 'tis not ſo here, that love that Chriſt ha's
+<pb n="66" facs="tcp:110169:45"/>
+from us is better beſtow'd; and ſtout-hearted ſinners, Ile tell you your doom; Chriſts love comes neer you, but you fly from it, you wil need <hi>mountains to fall upon you, and hide you from his preſence,</hi> ſweet <hi>Lambe,</hi> that he is; thats an hell-like <note place="margin">
+                        <hi>La<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ere, erit impoſſibile, ap<g ref="char:EOLhyphen"/>parere, intolera<g ref="char:EOLhyphen"/>bile.</hi> Anſelmus.</note> ſorrow, yet muſt be ſuffered, when to hide twill be impoſſible, and to appear intolerable: O think on the day of Chriſts appearance, when hee'l ſpeak with a voice like thun<g ref="char:EOLhyphen"/>der; <hi>I am he, behold the man whom ye have crucified,</hi> the ſides that you <note place="margin">
+                        <hi>Ego ſum, ecce hominem quem crucifixiſti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, ec<g ref="char:EOLhyphen"/>ce latus quod pugugiſtis, ecce vulnera quae in fiaeiſtis.</hi> Rev. 1.7.</note> have pierc'd, my hands and feet; lo, ſee the wounds you made, and this will he ſay when <hi>he comes with clouds; every eye ſhall ſee him, and they alſo which pierced him; and all kindreds of the earth ſhall waile becauſe of him;</hi> They ſhall look <note place="margin">Iiſdem quibus videmus oculis flemus.</note> and lament; then a good conſci<g ref="char:EOLhyphen"/>ence towards God will more be<g ref="char:EOLhyphen"/>ſtead, then all the treaſures in the world.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="67" facs="tcp:110169:45"/>
+                  <head>SECT. 3.</head>
+                  <p n="3">3<g ref="char:punc">▪</g> LOve him, and live to him, who <note place="margin">
+                        <hi>Plus valebit conſcientia pura quam marſupia plena.</hi> Bern.</note> accounts thee lovely; truly, without halting, wholly, without halving; let Chriſts love be thy patterne; a Sea of love ha's a bot<g ref="char:EOLhyphen"/>tome, an Heaven of love, a brim; but infinite love is limit-leſſe, ſuch is his; the infinite love of God in Chriſt, moves in a circle of life; Chriſts heart is the ſpring and fountaine there; all rivers and ſtreams of love meet as a congre<g ref="char:EOLhyphen"/>gation of all good, and ther's the Ocean, the Sea of love and loveli<g ref="char:EOLhyphen"/>neſſe: Chriſts Chariot runs on wheels of love, and the pace is ea<g ref="char:EOLhyphen"/>ſie and ſweet, and he breath's with <note place="margin">
+                        <hi>Probatio dilec<g ref="char:EOLhyphen"/>tionis exhibitio eſt operis.</hi> Greg in Evang. Hom. 30. Mat. 22. 37.</note> his <hi>Aura levis,</hi> his gentle gales, that are cheering, that thou maiſt breath like him: Chriſts love is an Elixar, which by contaction, if there beany diſpoſitio<g ref="char:cmbAbbrStroke">̄</g> of goodnes in the ſame mettal, twill render't of the ſame property it ſelfe is;
+<pb n="68" facs="tcp:110169:46"/>
+'tis a rarity, a great one, and a mer<g ref="char:EOLhyphen"/>veilous <hi>Lenocinium,</hi> inticer of deſi<g ref="char:EOLhyphen"/>res. <note place="margin">Luk. 8.4.7. Melancthon.</note> One conflicted under the pangs of death, and at laſt comforted, breath'd out her thoughts thus; now, and not till now, underſtand I the meaning of thoſe words, <hi>Thy ſins are forgiven thee;</hi> then, and not till then, it ſhould ſeem, was heart rais'd and raviſhed with un<g ref="char:EOLhyphen"/>ſpeakable love, to this lovely Lamb, which love is the fruit of remiſ<g ref="char:EOLhyphen"/>ſion of ſin; tis a ſad thing to have a ſelfiſh, circular love, that ha's no center but ſelf, aſcends no higher, goes no farther. Among the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> they who were ſaved, were wont to crowne him that ſaved them, and to honour him as a fa<g ref="char:EOLhyphen"/>ther, all their dayes; ſo Chriſtians ſhould take the Crowne of glory, of all their ſalvations, and good <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uot verba <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> abſurda.</note> actions, and ſet it on Chriſts head, who beſt becomes it; he that ſpeaks of himſelf ſeeks his own glory, ſaid Chriſt; ſelfe-ſeekers, and <hi>Thra<g ref="char:EOLhyphen"/>ſos</hi> boaſters of your ſelves, wher's
+<pb n="69" facs="tcp:110169:46"/>
+your eſteeme of Chriſt? is this your beſt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> example you give? <note place="margin">1 Tim. 4. 12. <hi>Magno conatu magnas agere nugas. Magni nugato<g ref="char:EOLhyphen"/>res.</hi> 1 Tim. 6.4.</note> do's this make the ſtampe on your coyne? then it's not current with Chriſt. Some are in <hi>Pauls</hi> language, <hi>proud</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, blown, and ſwolne up, <hi>knowing nothing a<g ref="char:EOLhyphen"/>right, and as they ought to know;</hi> a tu<g ref="char:EOLhyphen"/>mor in the body, is a ſymptome ſad enough, in the ſoul, ſaddeſt of all, doters on queſtions and <hi>ſtrife of words,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, queſtion-ſick, the beſt ſucceſſe whereof will be <hi>lan<g ref="char:EOLhyphen"/>guor</hi> in the end; ſuch muſt be <hi>with<g ref="char:EOLhyphen"/>drawne from us;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſtand off, keep at a diſtance from ſuch, know<g ref="char:EOLhyphen"/>ledge <note place="margin">Socrates.</note> without love, is like raine in the middle region; that was a grave ſpeech, I know that I know nothing. Some get the tree of knowledge but looſe the tree of life, ſaies one; Apoſtates from firſt love frowne on your faces; ſome are at firſt warme, next luke<g ref="char:EOLhyphen"/>warme, of a middle temper, but at laſt freezing could in affection to Chriſt.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="70" facs="tcp:110169:47"/>
+                  <head>SECT. 4.</head>
+                  <p n="4">4 Follow thy husband, begin <note place="margin">Principlum fervet, medi<g ref="char:EOLhyphen"/>um <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>epet, exi<g ref="char:EOLhyphen"/>tus<g ref="char:punc">▪</g> ulget. Hymnus evan<g ref="char:EOLhyphen"/>geliſiſslmus.</note> w<hi rend="sup">th</hi> thanksgiving, ſing to this <hi>Jeſus</hi> the Canticle moſt evangeli<g ref="char:EOLhyphen"/>call; as thou didſt put no bounds to thy ſelf ſinning, being now ſa<g ref="char:EOLhyphen"/>ved from it, put no bounds to thy thankſgiving<hi>:</hi> Ingratitude, ſay ſome, is a Monſter in nature, a So<g ref="char:EOLhyphen"/>leciſme <note place="margin">Let thy <hi>mo<g ref="char:EOLhyphen"/>dus</hi> be <hi>ſine mo<g ref="char:EOLhyphen"/>do.</hi> Bern. Luk. 1.68. <hi>Arbor honore<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ur, cujus nos unbra tuetur.</hi>
+                     </note> in manners, a Paradox in grace, damming up the courſe of donations divine and humane. We reſpect the tree; who's ſhade's, our defence; Thankſgiving was <hi>Lu<g ref="char:EOLhyphen"/>thers Sancti crapula,</hi> the ſtomack ſhould be full out, and then there's no eaſe or reſt, till the heart's un<g ref="char:EOLhyphen"/>laden in Chriſt: ha's God let thee ſee thou'rt ſinleſſe, that he has put away thy ſin? then cover 1 That thou maiſt do, and ſuffer as much, and more, now ſin is pardoned, as thou wouldſt have done and ſuffer<g ref="char:EOLhyphen"/>ed for a particular knowledge of it; before thou hadſt it, then thou
+<pb n="71" facs="tcp:110169:47"/>
+waſt all action to have it, nothing was irkſome which was a leading meanes to it; O then, what run<g ref="char:EOLhyphen"/>ning to God, and the godly, for information? what praying, hear<g ref="char:EOLhyphen"/>ing, reading and enquiring was there then? then thou thought'st it more worth then are worlds, and what's the mercy the leſſe, be<g ref="char:EOLhyphen"/>cauſe out of Chriſts hand into thine owne? 2 Be active in ſancti<g ref="char:EOLhyphen"/>fication, becauſe formerly thou waſt paſſive in regeneration, and in <note place="margin">Gods the A<g ref="char:EOLhyphen"/>gent, mans the Patient then. 2 Cor. 7.1.</note> making ſatisfaction for the tranſ<g ref="char:EOLhyphen"/>greſſion, <hi>having through great and precious promiſes, received the divine nature;</hi> where's the <hi>clenſing from all filthineſſe of fleſh &amp; ſpirit?</hi> 3 Spend, and end all thy dayes in meditati<g ref="char:EOLhyphen"/>on and admitation of what the Lord thy God ha's done for thee, who was once under the curſe, the law, the laſh; cry as the Prophet, <hi>O who is a God like to our God, that par<g ref="char:EOLhyphen"/>clons iniquity, tranſgreſsions and ſins,</hi> 
+                     <note place="margin">Micha 7.18, 19.</note> 
+                     <hi>who delights in mercy, and caſts our ſins into the depths of the Sea,</hi> won<g ref="char:EOLhyphen"/>der
+<pb n="72" facs="tcp:110169:48"/>
+thou art not ſo vile as the vileſt in Gods eſteeme, that he beares thee any good will, gives thee one good word, can ſpeake ſo well, and thou deſerveſt ſo ill, that thy name do's not ſtink with God, what but free grace, full grace, rich grace, has put a difference 'twixt thee and other men; lay then the blame of future ſufferings upon thy ſinning, and let every unkindneſſe in carri<g ref="char:EOLhyphen"/>age towards Chriſt, be killing to thy very heart, and ponder his great goodneſſe till all time be loſt in eternity.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>SECT. 5.</head>
+                  <p n="5">5. TAke thy ſtand in Chriſt. Motion ha's no reſt till in a fit place, nor thou, Chrſtian, till quieted in Chriſt; no bird will prune her ſelfe, and ſing, till ſhe ha's taken a ſtand that's pleaſing; <note place="margin">Mat. 9, 27. <hi>ad<g ref="char:EOLunhyphen"/>ult.</hi>
+                     </note> doſt thou ſuffer for Chriſt? thou maiſt afford it, thou getteſt and
+<pb n="73" facs="tcp:110169:48"/>
+gaineſt well by it, thou mayſt lay out ones for him, lend him ones, and hee'l retaliate hundreds, an hundred fould, and better; God lets us ſuffer, not to abuſe us, but to uſe us, make the beſt uſe of us; yea, he ha's already done, and ſuffered <note place="margin">Non ad exi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<g ref="char:EOLhyphen"/>um ſed ad ex<g ref="char:EOLhyphen"/>ercitium.</note> more for thee then thou ever didſt, or canſt do for him: Belie<g ref="char:EOLhyphen"/>vers, in this ſtrange land, may you hang up your Harps upon the wil<g ref="char:EOLhyphen"/>lowes; yet ſing your <hi>Hebrew</hi> ſongs, and ſongs of <hi>Sion</hi> to your King; but by Phyſick is the way to health, and to joy, you paſſe through ſorrow, you have but your ſeed-time here, your harveſt hereafter; <hi>may ſow in tears, but ſhall reap in joy; Fructus eſt ipſe in ſemine,</hi> and even the fruit it ſelfe is in the root; not to be afflicted, is not to be affected; to cover the Altar with tears is not ſo comely, as to <note place="margin">
+                        <hi>Bern. in Pſal.</hi> 90. <hi>Serm.</hi> 17, Mal. 2. 13. Hoſea 14.<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> do't with the calves of our lips; every bird can ſing in the Spring; but Birds of Paradize, heavenly ones ſhould ſing in Autumn, wa<g ref="char:EOLhyphen"/>ters
+<pb n="74" facs="tcp:110169:49"/>
+of wels are warmeſt in Win<g ref="char:EOLhyphen"/>ter, ſo ſhould thy heart be with joy, in ſorrrow; there's a mirth of mourning, <hi>Paul</hi> and <hi>Silas ſang Pſalmes in the ſtocks,</hi> and had plea<g ref="char:EOLhyphen"/>ſure in contemptible, comfortleſs <note place="margin">Peter Martyr, in 2 Sam. 24.</note> chains, <hi>Luctus gaudio mixtus,</hi> mour<g ref="char:EOLhyphen"/>ning with mirth mixed, beſt be<g ref="char:EOLhyphen"/>comes Martyrs; ſome can weep, ſinging for joy of heart, in frow<g ref="char:EOLhyphen"/>ning <note place="margin">
+                        <hi>Habet &amp; lacry<g ref="char:EOLhyphen"/>inagna voluptas</hi> Seneca. <hi>Ipſe dolor volup<g ref="char:EOLhyphen"/>tas eſt,</hi> Aug. Confeſ. l. c. 2.</note> dayes. Spouſe, conſider thy Husband; the fountain of joy it ſelfe did not, in the dayes of his fleſh, ſeem a man of much joy, yet rejoyced in ſpirit; the wine of the grapes of the <hi>Canaan</hi> above, and the water of life, with the im<g ref="char:EOLhyphen"/>mortall bread, is ſufficient to make man heartily hardie, in greateſt hardſhips under the Croſſe of Chriſt: Such as gather Simples, take herbs in the Spring, flowers in Summer, fruit in Autumne, roots in winter; and why Roots in Winter? becauſe the ſap is then gone downe, is moſt in the root, when leaſt in the branch, moſt un<g ref="char:EOLhyphen"/>der
+<pb n="75" facs="tcp:110169:49"/>
+ground, when leaſt above it; the richeſt vains of oare lye deep<g ref="char:EOLhyphen"/>eſt; doſt thou miſſe the ſappe of ſweetneſſe in thy ſelfe a branch? Chriſt is thy Vine, thy Root, and ſecures it for thee; ga<g ref="char:EOLhyphen"/>ther thy ſcattered comforts into Chriſt, enjoy him, and them in him, and thou chooſeſt the better part, wilt finde loſſes for Chriſt, clear gaine; being eaſed of thy ſin, the greateſt work is done, the greateſt trouble is over; God ſhootes his arrow, as <hi>Jonathan,</hi> not ſo much to harme as to warne thee.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>SECT. 6.</head>
+                  <p n="6">6. STay thy marvel, that ſo many mind earth, and ſo few mind heaven, they'r not married to the Lambe, elſe would they live, lye downe, and riſe with him; ſuch <hi>Terriginae fratres</hi> are written in the earth; O Lord, <hi>they that depart</hi> 
+                     <note place="margin">Jer. 17.18.</note>
+                     <pb n="76" facs="tcp:110169:50"/>
+                     <hi>from thee ſhal be written in the earth, becauſe they have forſaken thee, the fountain of living waters;</hi> theſe, Graſhopper-like, breed, live and dye, in the ſame ground; and though winged they are in ſome meaſure for higher things, yet fly they do not; ſometime they hop heaven-ward a little, but fall to the ground again, and at laſt their earthly wombe they make their heavenly Tombe, moyling like muck-wormes, clogging them<g ref="char:EOLhyphen"/>ſelves with thick cley, till in judge<g ref="char:EOLhyphen"/>ment thei'r cloi'd; men of the firſt <hi>Adam,</hi> onely from the earth, of <note place="margin">Homo ab humo.</note> an earthly breed, and hence are they ſtrangers to this ſecond <hi>A<g ref="char:EOLhyphen"/>dam,</hi> the Lord from Heaven<hi>:</hi> Poor ſouls, what's the world? 'tis but a Cipher in Gods ſight; look, even in the profits and pleaſures, they are but as ſmoak, which wrings teares from the eyes, and then becomes nothing; and all the joyes of life are but ſeeming ones unto what's future; all ſeen
+<pb n="77" facs="tcp:110169:50"/>
+things are ſweeter in the ambition, than in the fruition; they'r too too cloying upon a review, we in time loath what we have former<g ref="char:EOLhyphen"/>ly lov'd, as <hi>Amnon</hi> ſerved <hi>Tamor;</hi> 
+                     <note place="margin">Deſideria di<g ref="char:EOLhyphen"/>lata creſcunt at cito data vileſ<g ref="char:EOLhyphen"/>cunt.</note> we love our food when it is meat, but loath it when 'tis excrement; prize it when we take it into us, deſpiſe it when it paſſes through us: all ſecular and ſublunary de<g ref="char:EOLhyphen"/>lights are like <hi>Sodom's</hi> Apples, <note place="margin">Quae contacta cinereſcunt.</note> the inſide of whoe's beauty is but aſhes.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>SECT. 7.</head>
+                  <p n="7">7. LEt all goe whether twill, that Chriſt may come where, and when he will; let all <note place="margin">
+                        <hi>Aut pax, aut pactio,</hi> when Chriſt comes.</note> goe for him where ere you finde him; hee's the onely Peace-ma<g ref="char:EOLhyphen"/>ker, and peace-matter, who alone under his father, can turne <hi>Golgo<g ref="char:EOLhyphen"/>tha</hi> into <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>abatha; Moſes</hi> could looſe a fructill <hi>Egypt</hi> for Chriſt, a place where <hi>Nilus</hi> over-flowes,
+<pb n="78" facs="tcp:110169:51"/>
+and ſeed, being ſowne, yeilds foure rich harveſts in leſſe then foure months, to the owners thereof. <hi>Origen</hi> choſe rather to be a poore <note place="margin">Epheſ. 2. 13. to 17. <hi>Sic certaminis Moderatur.</hi> Plotinus. Phil. 3.8. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>Catechiſt</hi> in <hi>Alexandria,</hi> than, de<g ref="char:EOLhyphen"/>nying Chriſt, to be with his fellow Pupils in great authority and fa<g ref="char:EOLhyphen"/>vour. And all <hi>Pauls</hi> gaine was left, deem'd loſſe, droſſe, dunge, and doggs meate for Chriſt; ſuch <note place="margin">Quis non patia<g ref="char:EOLhyphen"/>tur, ut potiatur.</note> things if in competition with Chriſt, are, to ſuch ſouls, objects of loathing, not of love; and ſuch great looſers for Chriſt, are great<g ref="char:EOLhyphen"/>eſt gainers, who repent they knew not the commodity ſooner; Dei<g ref="char:EOLhyphen"/>ty rewards the devout.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>SECT. 8.</head>
+                  <p n="8">8 TAke comfort, and be of good cheer, that Chriſt ac<g ref="char:EOLhyphen"/>counts thee ſinles; thou art not ſuch as the world would make thee, thy worth is hid from their eyes; when they'd minde nothing but thy fai<g ref="char:EOLhyphen"/>lings,
+<pb n="79" facs="tcp:110169:51"/>
+let this refreſh thy ſpirits for ever, that thou art arayed with Chriſt, in Chriſts attire; thy na<g ref="char:EOLhyphen"/>kedneſſe is not, the ſhame and blame thereof is not, thy ſin is not; but thy God is. O heart<hi>!</hi> open wide and well, that Chriſt may fill thee; now that which ſought the life of thy glory, beauty and comfort is dead, now maiſt thou returne from the wilderneſſe of ſorrow, and ſolitarineſſe, and dwell in thine owne City, not made with hands. Now Chriſt is thy life, and death will be thy gaine, now maiſt thou ſing triumphing, <hi>O death,</hi> 
+                     <note place="margin">1 Cor. 15.55, 56, 57. In Chriſt ſaies the Apo<g ref="char:EOLhyphen"/>ſtle <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>ſuper ſupera<g ref="char:EOLhyphen"/>mus,</hi> we doe, over over-come. Rom. 8.37.</note> 
+                     <hi>where is thy ſling? O grave where is thy victory?</hi> and <hi>give thanks to the fa<g ref="char:EOLhyphen"/>ther,</hi> who ha's made thee victor through Chriſt his ſonne; yea, more then Conqueror, for thou haſt over over-come, as the word is in the originall; now to die, is no more to thee, but <hi>repatriaſſe,</hi> to reverſe home, go to heaven a<g ref="char:EOLhyphen"/>gaine; now maiſt thou joy in af<g ref="char:EOLhyphen"/>fliction, ſtand in temptation, be
+<pb n="80" facs="tcp:110169:52"/>
+perfect in action, and go freely to <note place="margin">Bern.</note> the full breaſts of conſolation in Chriſt. O Spouſel ſpeak wel of thy husband, where ere thou goeſt, commend him to all, both friends and enemies, and ſith the Peace-maker ha's ſpoken peace-matter, returne no more to folly.</p>
+               </div>
+            </div>
+            <closer>Dixi. Laus Deo.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110169:52"/>
+         </div>
+      </body>
+   </text>
+</TEI>
